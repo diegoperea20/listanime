@@ -1,0 +1,284 @@
+.div-filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: end;
+  gap: 10px;
+  margin-bottom: 50px;
+}
+
+
+/* Estilos para el contenedor de categorías */
+.category-container {
+  position: relative;
+  display: inline-block;
+}
+
+/* Estilos para el botón de categorías */
+.category-button {
+  background-color: #1f1f1f;
+  border: 1px solid #333;
+  color: #ffffff;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.category-button:hover {
+  background-color: #555555;
+}
+
+
+/* Estilos para el recuadro de categorías */
+.category-dropdown {
+  position: absolute;
+  background-color: #232323;
+  border: 1px solid #555555;
+  border-radius: 4px;
+  padding: 10px;
+  z-index: 1;
+  display: none; /* Oculto inicialmente */
+  width: 280px; /* Ajusta el ancho según tus necesidades */
+  margin-top: 5px;
+  gap:5px;
+}
+
+/* Mostrar el recuadro de categorías al hacer clic en el botón */
+.category-container.open .category-dropdown {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Dos columnas */
+  flex-wrap: wrap;
+}
+
+/* Estilos para las categorías */
+.category-dropdown h3 {
+  margin-top: 0;
+  font-size: 16px;
+  color: #ffffff;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.category-dropdown label {
+  align-items: center;
+  margin-right: 10px;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+
+/* estilos para el select ------------ */
+
+.select-container {
+    position: relative;
+    width: 200px;
+    margin-top: 20px;
+  }
+  
+  .select-container h3 {
+    margin-bottom: 8px;
+  }
+  
+  .select-container select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #1f1f1f;
+    border: 1px solid #333;
+    border-radius: 8px;
+    appearance: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .select-container select:hover {
+    background-color: #555555;
+  }
+  
+  .select-container::after {
+    content: '▼';
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: #fff;
+  }
+  
+  .select-container option {
+    background-color: #1f1f1f;
+    color: #fff;
+  }
+  
+
+  
+  
+  
+/* estilos inputs */
+.input-container {
+    margin-top: 20px;
+  }
+  
+  .input-container h3 {
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  
+  .input-container label {
+    display: block;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  
+  .input-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #1f1f1f;
+    border: 1px solid #333;
+    border-radius: 8px;
+    appearance: none;
+    outline: none;
+  }
+  
+  .input-button{
+    background-color: #1f1f1f;
+    border: 1px solid #333;
+    color: #ffffff;
+    padding: 9px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  .input-button:hover {
+    background-color: #555555;
+  }
+
+ 
+  .input-container.open .div-value {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .div-value {
+    position: absolute;
+    background-color: #232323;
+    border: 1px solid #555555;
+    border-radius: 4px;
+    padding: 10px;
+    z-index: 1;
+    display: none; /* Oculto inicialmente */
+    width: 57px; /* Ajusta el ancho según tus necesidades */
+    margin-top: 5px;
+  }
+  
+  .div-value label {
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .div-value .input-wrapper {
+    flex-grow: 1;
+    margin-left: 5px;
+  }
+  
+  .div-value input[type="text"] {
+    width: 40px;
+    padding: 5px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #1f1f1f;
+    border: 1px solid #333;
+    border-radius: 4px;
+    appearance: none;
+    outline: none;
+    font-weight: bold;
+  }
+
+/* Estilos para el div de búsqueda */
+.search-container {
+  position: relative;
+  width: 200px;
+  margin-top: 20px;
+}
+
+.search-container input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #1f1f1f;
+  border: 1px solid #333;
+  border-radius: 8px;
+  appearance: none;
+  outline: none;
+}
+
+/* Añadir el ícono de búsqueda */
+.search-container::before {
+  content: '🔍'; /* Puedes usar un carácter Unicode para el ícono de búsqueda */
+  position: absolute;
+  left: 195px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  color: #aaa;
+}
+
+  /* Tablets and small screens */
+@media (max-width: 1024px) {
+  .div-filters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+}
+
+/* Mobile devices */
+@media (max-width: 768px) {
+  .category-button, .input-button {
+    width: 100%;
+    text-align: left;
+  }
+  .category-dropdown {
+    width: 100%;
+  }
+  
+}
+
+/* Small mobile devices */
+@media (max-width: 480px) {
+  .category-button, .input-button {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+  .select-container select {
+    font-size: 14px;
+    padding: 8px;
+  }
+  .div-value input[type="text"] {
+    width: 35px;
+    font-size: 16px;
+    padding: 4px;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 320px) {
+  .category-button, .input-button {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+  .select-container select {
+    font-size: 12px;
+    padding: 6px;
+  }
+  .div-value input[type="text"] {
+    width: 30px;
+    font-size: 14px;
+    padding: 3px;
+  }
+}

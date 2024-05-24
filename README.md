@@ -1,9 +1,39 @@
+# Lista Anime
+
+<p align="justify">
+Anime list where you can filter anime by categories, value, order and status. In addition you can search by name and enter and its information sheet where you can see the information of the anime in Spanish, categories, title, state and its corresponding image.
+</p>
+
+<p align="justify">
+Listado de animes donde podrás filtrar los animes por categorías, valor, orden y estado. Además puedes buscar por nombre y entrar en su ficha informativa donde podrás ver la información del anime en español, categorías, título, estado y su imagen correspondiente.
+</p>
+
+<p align="center">
+  <img src="README-images/home-listanimes.PNG" alt="home">
+</p>
+
+<p align="center">
+  <img src="README-images/card-animelist.PNG" alt="card">
+</p>
+
+<p align="center">
+  <img src="README-images/pagination-listanime.PNG" alt="pagination">
+</p>
+
+<p align="center">
+  <img src="README-images/search-name-header.PNG" alt="searchname">
+</p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
-
+First
+```bash
+npm install
+```
+run the development server:
 ```bash
 npm run dev
 # or
@@ -16,21 +46,38 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+<p align="justify">
+In the value filter is between a minimum and maximum to select where by default is from 0 to 10, in the order filter is to order the list of anime from where its name begins from A to Z, from Z to A and the value in ascending and descending order.
 
-To learn more about Next.js, take a look at the following resources:
+The status filter sorts the list of anime by status Completed or Active, and the search by name filter sorts the list of anime by the name or word entered.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The search by name filter in the header part sorts the list of anime by the name or word entered so that they appear below and can be selected, making the component reusable in other media.
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+----
+**Spanish**
+<p align="justify">
+En el filtro de valor es entre un mínimo y un máximo a seleccionar donde por defecto es de 0 a 10, en el filtro de orden es para ordenar la lista de anime desde donde empieza su nombre de la A a la Z, de la Z a la A y el valor en orden ascendente y descendente.
 
-## Deploy on Vercel
+El filtro de estado ordena la lista de anime por estado Finalizado o Activo, y el filtro de búsqueda por nombre ordena la lista de anime por el nombre o palabra introducida.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+El filtro de búsqueda por nombre en la parte del cabecera(Header) ordena la lista de anime por el nombre o palabra introducida de forma que aparezcan debajo y puedan ser seleccionados, haciendo que el componente sea reutilizable en otros medios.
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Created by [Diego Ivan Perea Montealegre](https://github.com/diegoperea20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

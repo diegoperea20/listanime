@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1b1b1b;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.title {
+  font-size: 32px; /* Ajusta según sea necesario */
+  font-weight: bold; /* Negrita */
+  color: #ffffff; /* Blanco */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Fuente */
+  margin: 0; /* Eliminar márgenes */
+  padding: 0; /* Eliminar relleno */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.cardContainer {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 1fr; /* Establece una altura automática para las filas */
+    gap: 20px;
+    max-width: 1080px;
+  }
+
+.card {
+  border: 1px;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #232323;
+  width: auto; /* Ajusta el ancho de las tarjetas automáticamente */
+  height: auto; /* Ajusta la altura de las tarjetas automáticamente */
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 4px;
+  transition: transform 0.3s ease; /* Transición suave */
+}
+.image:hover {
+  transform: scale(1.05); /* Zoom pequeño, 5% mayor */
+}
+
+.name {
+  margin: 10px 0;
+  text-align: center;
+  font-size: 16px; /* Ajusta según sea necesario */
+  font-weight: bold; /* Negrita */
+  color: #ffffff; /* Blanco */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Fuente */
+}
+
+.value {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.star {
+  width: 16px;
+  height: 16px;
+  margin-right: 5px; /* Espacio entre la estrella y el texto */
+}
+
+/* pagination start */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination-item {
+    padding: 8px 16px;
+    border: 1px ;
+    cursor: pointer;
+    border-radius: 3px;
+    margin: 0 3px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s ease; /* transición lenta al hover */
+  }
+  
+  .pagination-item:hover {
+    background-color:#007bff;
+    
+  }
+  
+  .pagination-item.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .pagination-arrow {
+    padding: 8px 16px;
+    border: 1px ;
+    cursor: pointer;
+    border-radius: 3px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s ease;/* transición lenta al hover */
+  }
+  
+  .pagination-arrow:hover {
+    background-color: #007bff;
+  }
+  
+  .pagination-arrow.disabled {
+    color: #ccc;
+    cursor: not-allowed;
+  }
+  /* pagination end */
+
+  
+@media (max-width: 1024px) {
+    .cardContainer {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .cardContainer {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .cardContainer {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 320px) {
+    .cardContainer {
+      grid-template-columns: 1fr;
+    }
+    
+  }

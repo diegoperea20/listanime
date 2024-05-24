@@ -1,0 +1,144 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #232323;
+  padding: 10px 20px;
+  color: white;
+}
+
+.brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.brand a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-item {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nav-item:hover {
+  color: white;
+}
+
+.search-nav {
+ 
+  padding: 10px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #1f1f1f;
+  border: 1px solid #333;
+  border-radius: 8px;
+  appearance: none;
+  outline: none;
+}
+
+.search-results  a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+.search-results {
+  position: absolute;
+  background-color: #232323;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  max-height: 200px;
+  overflow-y: auto;
+  border-radius: 10px;
+}
+/* Estilo de la barra de desplazamiento */
+.search-results::-webkit-scrollbar {
+  width: 8px; /* Ancho de la barra de desplazamiento */
+}
+
+.search-results::-webkit-scrollbar-track {
+  background: #333; /* Color del track (fondo) */
+  border-radius: 10px;
+}
+
+.search-results::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color del thumb (barra) */
+  border-radius: 10px;
+  border: 2px solid #232323; /* Espacio entre el thumb y el track */
+}
+
+.search-results::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Color del thumb cuando está en hover */
+}
+
+.search-result {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  cursor: pointer;
+  color: white;
+  border-bottom: 1px solid #f3f3f3;
+  border-bottom-color: rgb(51, 56, 58);
+}
+.search-result:hover {
+  background-color: #302f2f;
+}
+.search-result-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 8px;
+  border-radius: 4px;
+}
+
+.search-result-name {
+  font-size: 14px;
+}
+
+
+/* Consultas de medios para pantallas pequeñas */
+@media (max-width: 380px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+  }
+
+  .brand {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .search-nav {
+    width: 100%;
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .search-results {
+    width: 100%;
+    max-height: 150px;
+    border-radius: 5px;
+  }
+
+  .search-result {
+    padding: 6px;
+  }
+
+  .search-result-image {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+  }
+
+  .search-result-name {
+    font-size: 12px;
+  }
+}
