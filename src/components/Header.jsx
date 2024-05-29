@@ -48,7 +48,7 @@ const Header = () => {
         {searchTerm && searchResults.length > 0 && (
           <div className="search-results">
             {searchResults.map((anime) => (
-               <Link href={`/name?name=${encodeURIComponent(anime.name)}`} passHref>
+               <Link href={`/${encodeURIComponent(anime.name)}`} passHref>
               <div key={anime.id} className="search-result">
                
                   <img

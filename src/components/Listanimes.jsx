@@ -29,7 +29,7 @@ function Listanimes() {
           .slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage)
           .map((anime) => (
             <div key={anime.id} className="card">
-               <Link href={`/name?name=${encodeURIComponent(anime.name)}`} passHref>
+              <Link href={`/${encodeURIComponent(anime.name)}`} passHref>
                 <img src={anime.image} alt={anime.name} className="image" />
               </Link>
               <h3 className="name">{anime.name}</h3>
