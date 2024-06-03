@@ -26,8 +26,16 @@ Listado de animes donde podrás filtrar los animes por categorías, valor, orden
 
 
 ## API
-
-
+Get
+```bash
+https://listanime-umber.vercel.app/api/listanimes
+```
+Get id
+```bash
+https://listanime-umber.vercel.app/api/listanimes/2
+```
+---
+#### Local
 Get
 ```bash
 http://localhost:3000/api/listanimes
