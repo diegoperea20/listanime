@@ -25,6 +25,27 @@ Listado de animes donde podrás filtrar los animes por categorías, valor, orden
 </p>
 
 
+## API
+
+
+Get
+```bash
+http://localhost:3000/api/listanimes
+```
+<p align="center">
+  <img src="README-images/getall.PNG" alt="getall">
+</p>
+
+Get id
+```bash
+http://localhost:3000/api/listanimes/2
+```
+
+<p align="center">
+  <img src="README-images/getid.PNG" alt="getid">
+</p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
