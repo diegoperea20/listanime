@@ -1285,7 +1285,7 @@ const db =[
         "Acción", "Ciencia Ficción", "Militar", "Shounen"
       ],
       "description": "En un mundo repleto de criaturas conocidas como Kaiju, Kafka Hibino siempre quiso ser parte del Cuerpo de Defensa. Junto a Mina Ashiro, su amiga de la infancia, prometen que ambos lograrán unirse, sin embargo, la vida los enviará por caminos muy diferentes. Kafka trabaja ahora limpiando cadáveres de Kaiju tras las batallas, y en el trabajo conoce a Ren Ichikawa. Reno está decidido a unirse a las Fuerzas de Defensa, y su pasión y decisión harán que Kafka despierte de nuevo su deseo de unirse a Mina en las Fuerzas de Defensa y proteger a la humanidad.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 117,
@@ -1296,7 +1296,7 @@ const db =[
         "Acción", "Ciencia Ficción", "Shounen"
       ],
       "description": "¡Hace trece años, el Ejército Villano del mal apareció de repente en su gigantesco castillo flotante a 10000 metros en el cielo para invadir la Tierra! El ejército villano tiene capacidades de revivir que los hacen inmortales, lo que los convierte en una grave amenaza para la humanidad. Para protegernos de estos invasores, los Rangers Dragón Divino, los Guardianes del Dragón, empuñan sus poderes milagrosos y sus armas, las Herramientas Divinas, ¡y luchan continuamente por nuestra seguridad! ¡El asalto del Ejército Villano! ¡La vigilancia de los Guardianes del Dragón! ¿Tendrán éxito en su conquista? ¡Descúbrelo en la serie de superhéroes llena de acción de toda la vida!",
-      "status": "Activo"
+      "status": "Finalizado"
     }
 
   ]
