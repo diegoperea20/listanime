@@ -1280,7 +1280,7 @@ const db =[
       "id": 116,
       "name": "Kaijuu 8-gou",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3991.jpg",
-      "value": 9.8,
+      "value": 9.6,
       "category": [
         "Acción", "Ciencia Ficción", "Militar", "Shounen"
       ],
@@ -1291,7 +1291,7 @@ const db =[
       "id": 117,
       "name": "Sentai Daishikkaku",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3973.jpg",
-      "value": 9.7,
+      "value": 9.4,
       "category": [
         "Acción", "Ciencia Ficción", "Shounen"
       ],
