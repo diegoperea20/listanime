@@ -527,7 +527,7 @@ const db =[
       "id": 48,
       "name": "Hyouka",
       "image": "https://www3.animeflv.net/uploads/animes/covers/794.jpg",
-      "value": 8.2,
+      "value": 9,
       "category": [
         "Escolares", "Misterio", "Recuentos de la vida"
       ],
@@ -560,7 +560,7 @@ const db =[
       "id": 51,
       "name": "Kono Subarashii Sekai ni Shukufuku wo!",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2381.jpg",
-      "value": 8.4,
+      "value": 8.7,
       "category": [
         "Aventuras", "Comedia", "Fantasía", "Sobrenatural"
       ],
@@ -950,7 +950,7 @@ const db =[
       "id": 86,
       "name": "Toaru Kagaku no Railgun",
       "image": "https://www3.animeflv.net/uploads/animes/covers/339.jpg",
-      "value": 8.6,
+      "value": 9,
       "category": [
         "Acción", "Ciencia Ficción", "Superpoderes"
       ],
@@ -1060,7 +1060,7 @@ const db =[
       "id": 96,
       "name": "Poputepipikku",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2867.jpg",
-      "value": 8.1,
+      "value": 8,
       "category": [
         "Comedia"
       ],
@@ -1170,7 +1170,7 @@ const db =[
       "id": 106,
       "name": "High Card",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3751.jpg",
-      "value": 8.8,
+      "value": 8.4,
       "category": [
         "Acción", "Superpoderes"
       ],
@@ -1297,6 +1297,17 @@ const db =[
       ],
       "description": "¡Hace trece años, el Ejército Villano del mal apareció de repente en su gigantesco castillo flotante a 10000 metros en el cielo para invadir la Tierra! El ejército villano tiene capacidades de revivir que los hacen inmortales, lo que los convierte en una grave amenaza para la humanidad. Para protegernos de estos invasores, los Rangers Dragón Divino, los Guardianes del Dragón, empuñan sus poderes milagrosos y sus armas, las Herramientas Divinas, ¡y luchan continuamente por nuestra seguridad! ¡El asalto del Ejército Villano! ¡La vigilancia de los Guardianes del Dragón! ¿Tendrán éxito en su conquista? ¡Descúbrelo en la serie de superhéroes llena de acción de toda la vida!",
       "status": "Finalizado"
+    },
+     {
+      "id": 118,
+      "name": "Shoushimin Series",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4022.jpg",
+      "value": 9.2,
+      "category": [
+        "Escolares", "Misterio"
+      ],
+      "description": "Kobato decide convertirse en un ciudadano honrado tras vivir una dura experiencia conocida como 'trabajo de sabiduría'. Hace un pacto con Osanai, una compañera de clase con el mismo objetivo, y su plan es empezar la preparatoria de forma que tengan una vida tranquila. Sin embargo, sin saber por qué, a su alrededor no dejan de producirse hechos inexplicables y desastres. ¿Podrán Kobato y Osanai llevar las vidas tranquilas y pacíficas que tanto desean?",
+      "status": "Activo"
     }
 
   ]
