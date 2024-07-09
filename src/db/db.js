@@ -538,7 +538,7 @@ const db =[
       "id": 49,
       "name": "Tonari no Seki-kun",
       "image": "https://www3.animeflv.net/uploads/animes/covers/1212.jpg",
-      "value": 8.2,
+      "value": 8.4,
       "category": [
         "Comedia", "Escolares", "Seinen"
       ],
@@ -1307,6 +1307,17 @@ const db =[
         "Escolares", "Misterio"
       ],
       "description": "Kobato decide convertirse en un ciudadano honrado tras vivir una dura experiencia conocida como 'trabajo de sabiduría'. Hace un pacto con Osanai, una compañera de clase con el mismo objetivo, y su plan es empezar la preparatoria de forma que tengan una vida tranquila. Sin embargo, sin saber por qué, a su alrededor no dejan de producirse hechos inexplicables y desastres. ¿Podrán Kobato y Osanai llevar las vidas tranquilas y pacíficas que tanto desean?",
+      "status": "Activo"
+    },
+     {
+      "id": 119,
+      "name": "Shikanoko Nokonoko Koshitantan",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4026.jpg",
+      "value": 8.5,
+      "category": [
+        "Escolares", "Shounen" ,"Comedia"
+      ],
+      "description": "Koshi Torako, una estudiante de preparatoria, siente que algo frío le roza la cara. Al mirar hacia arriba ve a una chica cuya cornamenta se atoró en unos cables eléctricos. Ayudar a Shinakono, una chica venado muy peculiar, hace que la vida de Torako, una estudiante modélica (en apariencia únicamente) se salga de control. ¡Así comienza la historia de esta chica (antigua delincuente) y otra más (¿un venado?) en esta aventura de chica conoce venado!",
       "status": "Activo"
     }
 
