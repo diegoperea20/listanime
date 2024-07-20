@@ -1319,6 +1319,17 @@ const db =[
       ],
       "description": "Koshi Torako, una estudiante de preparatoria, siente que algo frío le roza la cara. Al mirar hacia arriba ve a una chica cuya cornamenta se atoró en unos cables eléctricos. Ayudar a Shinakono, una chica venado muy peculiar, hace que la vida de Torako, una estudiante modélica (en apariencia únicamente) se salga de control. ¡Así comienza la historia de esta chica (antigua delincuente) y otra más (¿un venado?) en esta aventura de chica conoce venado!",
       "status": "Activo"
+    },
+      {
+      "id": 120,
+      "name": "Dungeon Meshi",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/3919.jpg",
+      "value": 9.4,
+      "category": [
+        "Comedia", "Shounen" ,"Comedia","Fantasía","Seinen"
+      ],
+      "description": "Después de que el Reino Dorado sea hundido bajo tierra por un mago demente, su rey emerge, prometiendo todo su tesoro a quien derrote al mago, antes de desmoronarse. Los gremios se ven alentados por esta promesa y atraviesan la mazmorra laberíntica en busca del mago. Laios, el líder de uno de estos gremios, se encuentra con un dragón que aniquila a su grupo y devora a su hermana Falin. A pesar de haber perdido la totalidad de sus suministros y pertenencias, Laios, junto con Marcille, una curandera elfa, y Chilchuck, un ladrón halfling, vuelven a entrar inmediatamente en la mazmorra, decididos a salvar a Falin. Como el tiempo es esencial, Laios sugiere el tabú de comerse a los monstruos de la mazmorra como medio de reunir provisiones. Cuando preparan su primera comida en la mazmorra, un enano llamado Senshi los detiene. Un entusiasta de la cocina de monstruos, les ayuda a preparar sus ingredientes de monstruos para un consumo seguro. Tras conocer las circunstancias de Laios, Senshi expresa su deseo de cocinar un dragón y se une a su gremio, comenzando así su incursión juntos en la mazmorra llena de comida.",
+      "status": "Finalizado"
     }
 
   ]
