@@ -1,4 +1,4 @@
-"use client"
+'use client'
 import db from '@/db/db'
 import './name.css'
 import React, { useState, useEffect } from 'react'
