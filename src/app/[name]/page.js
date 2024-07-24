@@ -1,27 +1,34 @@
 "use client"
-import db from '@/db/db';
-import './name.css';
-import React, { useState, useEffect } from 'react';
+import db from '@/db/db'
+import './name.css'
+import React, { useState, useEffect } from 'react'
+import { useRouter, useSearchParams } from 'next/navigation'
 
 function getDataName(anime_name, setAnime) {
-  const selectedAnime = db.find(item => item.name === anime_name);
-  setAnime(selectedAnime);
+  const selectedAnime = db.find(item => item.name === anime_name)
+  setAnime(selectedAnime)
 }
 
 function Name({ params }) {
-  const [anime, setAnime] = useState(null);
+  const [anime, setAnime] = useState(() => {
+    const decodedName = decodeURIComponent(params.name)
+    return db.find(item => item.name === decodedName) || null
+  })
+  const router = useRouter()
+  const searchParams = useSearchParams()
 
-  useEffect(() => {
-    const decodedName = decodeURIComponent(params.name);
-    getDataName(decodedName, setAnime);
-  }, [params.name]);  // Dependencias para que se ejecute cuando params.name cambie
-
+  
   if (!anime) {
-    return <div>Loading...</div>;  // Manejo de estado de carga
+    return null // O podrías retornar un componente de error aquí
+  }
+
+  const handleBack = () => {
+    router.push(`/?${searchParams.toString()}`)
   }
 
   return (
     <div className="name-container">
+      {/* <button onClick={handleBack} className="back-button">Volver a la lista</button> */}
       <div className="name-box">
         <div className="name-image-container">
           <img src={anime.image} alt={anime.name} className="name-image" />
@@ -37,7 +44,7 @@ function Name({ params }) {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
-export default Name;
+export default Name

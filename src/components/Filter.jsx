@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import './filter.css';
+import { useRouter, useSearchParams } from 'next/navigation';
 
 const Filter = ({ data, onFilter }) => {
-
+  const router = useRouter();
+  const searchParams = useSearchParams();
   // Cierre y apertura del dropdown de categorías
   const [isOpen, setIsOpen] = useState(false);
   const toggleDropdown = () => {
@@ -36,13 +38,15 @@ const Filter = ({ data, onFilter }) => {
   }, []);
 
 
-  const [selectedCategories, setSelectedCategories] = useState([]);
-  const [minValue, setMinValue] = useState("0");
-  const [maxValue, setMaxValue] = useState("10");
-  const [sortOrder, setSortOrder] = useState(null);
-  const [selectedStatus, setSelectedStatus] = useState(null); // Estado seleccionado (null, 'Finalizado', 'Activo')
-
-  const [searchName, setSearchName] = useState(""); // Nuevo estado para el nombre
+  const [selectedCategories, setSelectedCategories] = useState(() => {
+    const categories = searchParams.get('categories');
+    return categories ? categories.split(',') : [];
+  });
+  const [minValue, setMinValue] = useState(searchParams.get('minValue') || "0");
+  const [maxValue, setMaxValue] = useState(searchParams.get('maxValue') || "10");
+  const [sortOrder, setSortOrder] = useState(searchParams.get('sortOrder') || null);
+  const [selectedStatus, setSelectedStatus] = useState(searchParams.get('status') || null);
+  const [searchName, setSearchName] = useState(searchParams.get('name') || "");
 
 
   const categories = [...new Set(data.flatMap(item => item.category))];
@@ -50,7 +54,36 @@ const Filter = ({ data, onFilter }) => {
 
   useEffect(() => {
     handleFilter();
+    updateURL();
   }, [selectedCategories, minValue, maxValue, sortOrder, selectedStatus, searchName]);
+
+  const updateURL = () => {
+    const params = new URLSearchParams(searchParams);
+    
+    if (selectedCategories.length > 0) {
+      params.set('categories', selectedCategories.join(','));
+    } else {
+      params.delete('categories');
+    }
+    
+    if (minValue !== "0") params.set('minValue', minValue);
+    else params.delete('minValue');
+    
+    if (maxValue !== "10") params.set('maxValue', maxValue);
+    else params.delete('maxValue');
+    
+    if (sortOrder) params.set('sortOrder', sortOrder);
+    else params.delete('sortOrder');
+    
+    if (selectedStatus) params.set('status', selectedStatus);
+    else params.delete('status');
+    
+    if (searchName) params.set('name', searchName);
+    else params.delete('name');
+
+    const newURL = `${window.location.pathname}?${params.toString()}`;
+    router.push(newURL, undefined, { shallow: true });
+  };
 
   const handleCategoryChange = (category) => {
     setSelectedCategories(prevSelectedCategories =>
