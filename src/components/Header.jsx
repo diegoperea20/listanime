@@ -4,10 +4,12 @@ import './header.css';
 import db from '@/db/db';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useRouter } from 'next/navigation';
 
 const Header = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [searchResults, setSearchResults] = useState([]);
+  const router = useRouter();
 
   const handleSearch = (term) => {
     setSearchTerm(term);
@@ -33,10 +35,17 @@ const Header = () => {
     };
   }, []);
 
+  const handleResetFilters = () => {
+    // evento personalizado para comunicar el reset de filtros
+    const event = new CustomEvent('resetFilters');
+    window.dispatchEvent(event);
+    router.push('/');
+  };
+
   return (
     <header className="header">
-      <div className="brand">
-        <Link href="/">Listanimes</Link>
+     <div className="brand">
+        <a href="/" onClick={handleResetFilters}>Listanimes</a>
       </div>
       <div>
         <input

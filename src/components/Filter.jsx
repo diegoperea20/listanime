@@ -53,10 +53,32 @@ const Filter = ({ data, onFilter }) => {
   const categories = [...new Set(data.flatMap(item => item.category))];
   const statuses = ['Finalizado', 'Activo'];
 
+  //Reset de filtros accionado por el header con titulo de  brand
+  useEffect(() => {
+    const handleResetFilters = () => {
+      setSelectedCategories([]);
+      setMinValue("0");
+      setMaxValue("10");
+      setSortOrder(null);
+      setSelectedStatus(null);
+      setSearchName("");
+      setIsOpen(false);
+      setShowInputs(false);
+    };
+
+    window.addEventListener('resetFilters', handleResetFilters);
+
+    return () => {
+      window.removeEventListener('resetFilters', handleResetFilters);
+    };
+  }, []);
+
   useEffect(() => {
     handleFilter();
     updateURL();
   }, [selectedCategories, minValue, maxValue, sortOrder, selectedStatus, searchName]);
+
+  
 
   const updateURL = () => {
     const params = new URLSearchParams(searchParams);
