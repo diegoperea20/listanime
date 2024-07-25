@@ -3,10 +3,13 @@ import React, { useState, useEffect } from 'react';
 import './header.css';
 import db from '@/db/db';
 import Link from 'next/link';
+import Image from 'next/image';
+import { useRouter } from 'next/navigation';
 
 const Header = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [searchResults, setSearchResults] = useState([]);
+  const router = useRouter();
 
   const handleSearch = (term) => {
     setSearchTerm(term);
@@ -32,10 +35,17 @@ const Header = () => {
     };
   }, []);
 
+  const handleResetFilters = () => {
+    // evento personalizado para comunicar el reset de filtros
+    const event = new CustomEvent('resetFilters');
+    window.dispatchEvent(event);
+    router.push('/');
+  };
+
   return (
     <header className="header">
-      <div className="brand">
-        <Link href="/">Listanimes</Link>
+     <div className="brand">
+        <a href="/" onClick={handleResetFilters}>Listanimes</a>
       </div>
       <div>
         <input
@@ -48,17 +58,17 @@ const Header = () => {
         {searchTerm && searchResults.length > 0 && (
           <div className="search-results">
             {searchResults.map((anime) => (
-               <Link href={`/${encodeURIComponent(anime.name)}`} passHref>
-              <div key={anime.id} className="search-result">
-               
-                  <img
+              <Link key={anime.id} href={`/${encodeURIComponent(anime.name)}`} passHref>
+                <div className="search-result">
+                  <Image
                     src={anime.image}
                     alt={anime.name}
+                    width={500}
+                    height={300}
                     className="search-result-image"
                   />
-                
-                <span className="search-result-name">{anime.name}</span>
-              </div>
+                  <span className="search-result-name">{anime.name}</span>
+                </div>
               </Link>
             ))}
           </div>
