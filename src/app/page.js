@@ -1,10 +1,14 @@
-import Listanime from '@/components/Listanimes'
+import React, { Suspense } from 'react'
+import dynamic from 'next/dynamic'
 
-function Homepage() {
+const ListanimesWithParams = dynamic(() => import('@/components/ListanimesWithParams'), {
+  ssr: false,
+})
+
+export default function Home() {
   return (
-    
-    <Listanime />
+    <Suspense fallback={<div>Loading...</div>}>
+      <ListanimesWithParams />
+    </Suspense>
   )
 }
-
-export default Homepage

@@ -1,15 +1,15 @@
 'use client'
+
 import React, { useState, useEffect } from 'react'
 import db from '@/db/db'
 import "./listanimes.css"
 import Pagination from '@/components/Pagination'
 import Filter from '@/components/Filter'
 import Link from 'next/link'
-import { useRouter, useSearchParams } from 'next/navigation'
+import { useRouter } from 'next/navigation'
 
-function Listanimes() {
+function Listanimes({ searchParams }) {
   const router = useRouter()
-  const searchParams = useSearchParams()
   const currentPage = parseInt(searchParams.get('page') || '1', 10)
   const [filteredData, setFilteredData] = useState(db)
 
