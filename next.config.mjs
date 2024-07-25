@@ -2,7 +2,20 @@
 const nextConfig = {
     output: 'standalone',
     images: {
-        domains: ['www3.animeflv.net', 'a.storyblok.com', 'upload.wikimedia.org',],
+      remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'www3.animeflv.net',
+        },
+        {
+          protocol: 'https',
+          hostname: 'a.storyblok.com',
+        },
+        {
+          protocol: 'https',
+          hostname: 'upload.wikimedia.org',
+        },
+      ],
     },
   };
   
