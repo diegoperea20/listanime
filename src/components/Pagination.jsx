@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Pagination = ({ currentPage, totalPages, onPageChange }) => {
-  const showEllipsis = totalPages > 7
+  const showEllipsis = totalPages > 5
   const startPage = Math.max(2, currentPage - 2)
   const endPage = Math.min(totalPages - 1, currentPage + 2)
 
