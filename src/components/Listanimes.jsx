@@ -26,7 +26,7 @@ function Listanimes() {
     if (currentPage > totalPages && totalPages > 0) {
       handlePageChange(totalPages)
     }
-  }, [currentPage, totalPages])
+  }, [currentPage, totalPages, handlePageChange]);
 
   useEffect(() => {
     const categories = searchParams.get('categories')?.split(',') || [];
