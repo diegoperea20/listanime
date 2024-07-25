@@ -1,37 +1,51 @@
 'use client'
+
 import db from '@/db/db'
 import './name.css'
 import React, { useState, useEffect } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
-
-function getDataName(anime_name, setAnime) {
-  const selectedAnime = db.find(item => item.name === anime_name)
-  setAnime(selectedAnime)
-}
+import Image from 'next/image'
 
 function Name({ params }) {
-  const [anime, setAnime] = useState(() => {
-    const decodedName = decodeURIComponent(params.name)
-    return db.find(item => item.name === decodedName) || null
-  })
+  const [anime, setAnime] = useState(null)
+  const [error, setError] = useState(null)
   const router = useRouter()
   const searchParams = useSearchParams()
 
-  
-  if (!anime) {
-    return null // O podrías retornar un componente de error aquí
-  }
+  useEffect(() => {
+    const decodedName = decodeURIComponent(params.name)
+    const foundAnime = db.find(item => item.name === decodedName)
+    if (foundAnime) {
+      setAnime(foundAnime)
+    } else {
+      setError('Anime no encontrado')
+    }
+  }, [params.name])
 
   const handleBack = () => {
     router.push(`/?${searchParams.toString()}`)
   }
 
+  if (error) {
+    return <div className="error-container">{error}</div>
+  }
+
+  if (!anime) {
+    return <div className="loading-container">Cargando...</div>
+  }
+
   return (
     <div className="name-container">
-      {/* <button onClick={handleBack} className="back-button">Volver a la lista</button> */}
+     {/*  <button onClick={handleBack} className="back-button">Volver a la lista</button> */}
       <div className="name-box">
         <div className="name-image-container">
-          <img src={anime.image} alt={anime.name} className="name-image" />
+          <Image 
+            src={anime.image} 
+            alt={anime.name} 
+            width={500} 
+            height={300} 
+            className="name-image"
+          />
           <div className={anime.status === 'Finalizado' ? 'name-status-finish' : 'name-status'}>
             {anime.status}
           </div>
