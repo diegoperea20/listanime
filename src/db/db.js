@@ -1313,7 +1313,7 @@ const db =[
       "id": 119,
       "name": "Shikanoko Nokonoko Koshitantan",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4026.jpg",
-      "value": 8.5,
+      "value": 9,
       "category": [
         "Escolares", "Shounen" ,"Comedia"
       ],
