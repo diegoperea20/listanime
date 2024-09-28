@@ -1126,7 +1126,7 @@ const db =[
       "id": 102,
       "name": "NieR:Automata Ver1.1a",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3738.jpg",
-      "value": 9.5,
+      "value": 10,
       "category": [
         "Acción", "Ciencia Ficción", "Fantasía","Shounen"
       ],
@@ -1313,7 +1313,7 @@ const db =[
       "id": 119,
       "name": "Shikanoko Nokonoko Koshitantan",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4026.jpg",
-      "value": 9,
+      "value": 9.2,
       "category": [
         "Escolares", "Shounen" ,"Comedia"
       ],
