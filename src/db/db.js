@@ -1307,7 +1307,7 @@ const db =[
         "Escolares", "Misterio"
       ],
       "description": "Kobato decide convertirse en un ciudadano honrado tras vivir una dura experiencia conocida como 'trabajo de sabiduría'. Hace un pacto con Osanai, una compañera de clase con el mismo objetivo, y su plan es empezar la preparatoria de forma que tengan una vida tranquila. Sin embargo, sin saber por qué, a su alrededor no dejan de producirse hechos inexplicables y desastres. ¿Podrán Kobato y Osanai llevar las vidas tranquilas y pacíficas que tanto desean?",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 119,
@@ -1318,7 +1318,7 @@ const db =[
         "Escolares", "Shounen" ,"Comedia"
       ],
       "description": "Koshi Torako, una estudiante de preparatoria, siente que algo frío le roza la cara. Al mirar hacia arriba ve a una chica cuya cornamenta se atoró en unos cables eléctricos. Ayudar a Shinakono, una chica venado muy peculiar, hace que la vida de Torako, una estudiante modélica (en apariencia únicamente) se salga de control. ¡Así comienza la historia de esta chica (antigua delincuente) y otra más (¿un venado?) en esta aventura de chica conoce venado!",
-      "status": "Activo"
+      "status": "Finalizado"
     },
       {
       "id": 120,
@@ -1330,6 +1330,28 @@ const db =[
       ],
       "description": "Después de que el Reino Dorado sea hundido bajo tierra por un mago demente, su rey emerge, prometiendo todo su tesoro a quien derrote al mago, antes de desmoronarse. Los gremios se ven alentados por esta promesa y atraviesan la mazmorra laberíntica en busca del mago. Laios, el líder de uno de estos gremios, se encuentra con un dragón que aniquila a su grupo y devora a su hermana Falin. A pesar de haber perdido la totalidad de sus suministros y pertenencias, Laios, junto con Marcille, una curandera elfa, y Chilchuck, un ladrón halfling, vuelven a entrar inmediatamente en la mazmorra, decididos a salvar a Falin. Como el tiempo es esencial, Laios sugiere el tabú de comerse a los monstruos de la mazmorra como medio de reunir provisiones. Cuando preparan su primera comida en la mazmorra, un enano llamado Senshi los detiene. Un entusiasta de la cocina de monstruos, les ayuda a preparar sus ingredientes de monstruos para un consumo seguro. Tras conocer las circunstancias de Laios, Senshi expresa su deseo de cocinar un dragón y se une a su gremio, comenzando así su incursión juntos en la mazmorra llena de comida.",
       "status": "Finalizado"
+    },
+    {
+      "id": 121,
+      "name": "Dandadan",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4056.jpg",
+      "value": 9.6,
+      "category": [
+        "Comedia", "Shounen" ,"Sobrenatural","Acción"
+      ],
+      "description": "Cuando Momo, una estudiante de preparatoria de una familia de médiums espirituales, conoce a su compañero de clase Okarun, un friki del ocultismo, discuten: Momo cree en los fantasmas pero no en los extraterrestres, y Okarun cree en los extraterrestres pero no en los fantasmas. Cuando resulta que ambos fenómenos son reales, en Momo surge un poder oculto y en Okarun el poder de una maldición. Juntos, deberán desafiar a las fuerzas paranormales que amenazan su mundo.",
+      "status": "Activo"
+    },
+    {
+      "id": 122,
+      "name": "Mecha-ude (TV)",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4058.jpg",
+      "value": 9.1,
+      "category": [
+        "Comedia", "Shounen" ,"Ciencia Ficción","Acción"
+      ],
+      "description": "La corriente vida de secundaria de Hikaru se transforma radicalmente cuando conoce a Alma, una entidad alienígena parecida a una extremidad mecánica conocida como Mecha-Ude. Alma, miembro de una rara especie, huye de un misterioso grupo que persigue a los de su especie en busca de aquel que posee un poder sin igual. A petición del grupo de la resistencia, ARMS, esta extraña pareja se embarcará en un peligroso viaje para salvar a los Mecha-Ude.",
+      "status": "Activo"
     }
 
   ]
