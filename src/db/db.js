@@ -1335,7 +1335,7 @@ const db =[
       "id": 121,
       "name": "Dandadan",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4056.jpg",
-      "value": 9.6,
+      "value": 10,
       "category": [
         "Comedia", "Shounen" ,"Sobrenatural","Acción"
       ],
