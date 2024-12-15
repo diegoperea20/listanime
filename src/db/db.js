@@ -1346,7 +1346,7 @@ const db =[
       "id": 122,
       "name": "Mecha-ude (TV)",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4058.jpg",
-      "value": 8.8,
+      "value": 8.4,
       "category": [
         "Comedia", "Shounen" ,"Ciencia Ficción","Acción"
       ],
