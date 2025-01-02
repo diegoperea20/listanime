@@ -1352,6 +1352,17 @@ const db =[
       ],
       "description": "La corriente vida de secundaria de Hikaru se transforma radicalmente cuando conoce a Alma, una entidad alienígena parecida a una extremidad mecánica conocida como Mecha-Ude. Alma, miembro de una rara especie, huye de un misterioso grupo que persigue a los de su especie en busca de aquel que posee un poder sin igual. A petición del grupo de la resistencia, ARMS, esta extraña pareja se embarcará en un peligroso viaje para salvar a los Mecha-Ude.",
       "status": "Activo"
+    },
+     {
+      "id": 123,
+      "name": "Parasyte : The Maxim",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/1635.jpg",
+      "value": 8.9,
+      "category": [
+        "Shounen" ,"Ciencia Ficción","Acción","Seinen","Terror","Psicológico"
+      ],
+      "description": "Basada en el manga de horror y ciencia ficción (del mismo nombre) de Iwaaki Hitoshi. El joven de 17 años Izumi Shinichi vive con su madre y su padre en un tranquilo vecindario de Tokio. Una noche, alienígenas con aspecto de gusanos llamados Parásitos invaden la Tierra, apoderándose del cerebro de las personas entrando por sus oídos o narices. Un Parásito intenta entrar por la oreja de Shinichi mientras él duerme, y falla ya que este usaba audífonos. Pero entra a su cuerpo escarbando su brazo y se apodera de su mano derecha que pasa a llamarse Migi. Como Shinichi fue capaz de evitar que Migi siguiera su viaje hacía su cerebro, ambos seres retienen su intelecto y personalidad. A medida que el dúo se encuentra con otro Parásitos, ambos compatibilizan con su extraña situación y gradualmente forman un fuerte lazo, trabajando juntos para poder sobrevivir. Esto les da una ventaja al momento de luchar contra otros Parásitos que atacan a la pareja al darse cuenta de que Shinichi aún mantiene intacto su cerebro. Shinichi se siente obligado a luchar contra otros Parásitos, que devoran a los humanos como comida, con la ayuda de Migi.",
+      "status": "Finalizado"
     }
 
   ]
