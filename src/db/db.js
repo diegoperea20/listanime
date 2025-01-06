@@ -1363,6 +1363,17 @@ const db =[
       ],
       "description": "Basada en el manga de horror y ciencia ficción (del mismo nombre) de Iwaaki Hitoshi. El joven de 17 años Izumi Shinichi vive con su madre y su padre en un tranquilo vecindario de Tokio. Una noche, alienígenas con aspecto de gusanos llamados Parásitos invaden la Tierra, apoderándose del cerebro de las personas entrando por sus oídos o narices. Un Parásito intenta entrar por la oreja de Shinichi mientras él duerme, y falla ya que este usaba audífonos. Pero entra a su cuerpo escarbando su brazo y se apodera de su mano derecha que pasa a llamarse Migi. Como Shinichi fue capaz de evitar que Migi siguiera su viaje hacía su cerebro, ambos seres retienen su intelecto y personalidad. A medida que el dúo se encuentra con otro Parásitos, ambos compatibilizan con su extraña situación y gradualmente forman un fuerte lazo, trabajando juntos para poder sobrevivir. Esto les da una ventaja al momento de luchar contra otros Parásitos que atacan a la pareja al darse cuenta de que Shinichi aún mantiene intacto su cerebro. Shinichi se siente obligado a luchar contra otros Parásitos, que devoran a los humanos como comida, con la ayuda de Migi.",
       "status": "Finalizado"
+    },
+    {
+      "id": 124,
+      "name": "Solo Leveling",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/3928.jpg",
+      "value": 9,
+      "category": [
+        "Shounen","Acción","Aventuras","Fantasía"
+      ],
+      "description": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+      "status": "Finalizado"
     }
 
   ]
