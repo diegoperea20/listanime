@@ -1340,7 +1340,7 @@ const db =[
         "Comedia", "Shounen" ,"Sobrenatural","Acción"
       ],
       "description": "Cuando Momo, una estudiante de preparatoria de una familia de médiums espirituales, conoce a su compañero de clase Okarun, un friki del ocultismo, discuten: Momo cree en los fantasmas pero no en los extraterrestres, y Okarun cree en los extraterrestres pero no en los fantasmas. Cuando resulta que ambos fenómenos son reales, en Momo surge un poder oculto y en Okarun el poder de una maldición. Juntos, deberán desafiar a las fuerzas paranormales que amenazan su mundo.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 122,
@@ -1351,7 +1351,7 @@ const db =[
         "Comedia", "Shounen" ,"Ciencia Ficción","Acción"
       ],
       "description": "La corriente vida de secundaria de Hikaru se transforma radicalmente cuando conoce a Alma, una entidad alienígena parecida a una extremidad mecánica conocida como Mecha-Ude. Alma, miembro de una rara especie, huye de un misterioso grupo que persigue a los de su especie en busca de aquel que posee un poder sin igual. A petición del grupo de la resistencia, ARMS, esta extraña pareja se embarcará en un peligroso viaje para salvar a los Mecha-Ude.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 123,
@@ -1374,6 +1374,17 @@ const db =[
       ],
       "description": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
       "status": "Finalizado"
+    },
+     {
+      "id": 125,
+      "name": "Sakamoto Days",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4125.jpg",
+      "value": 9,
+      "category": [
+        "Shounen","Acción","Comedia"
+      ],
+      "description": "Tarou Sakamoto fue considerado el mejor asesino a sueldo de todos los tiempos. Temido por muchos, estaba en la cima del mundo clandestino hasta que conoció y se enamoró de una mujer. Como resultado, Sakamoto abandonó su vida criminal y ahora trabaja como dependiente de una tienda. Dejar atrás su turbio pasado resulta más difícil de lo que Sakamoto imaginaba en un principio. Muchos de sus antiguos rivales y socios no creen que haya dejado realmente el negocio y aparecen con la esperanza de acabar con él.",
+      "status": "Activo"
     }
 
   ]
