@@ -1385,6 +1385,17 @@ const db =[
       ],
       "description": "Tarou Sakamoto fue considerado el mejor asesino a sueldo de todos los tiempos. Temido por muchos, estaba en la cima del mundo clandestino hasta que conoció y se enamoró de una mujer. Como resultado, Sakamoto abandonó su vida criminal y ahora trabaja como dependiente de una tienda. Dejar atrás su turbio pasado resulta más difícil de lo que Sakamoto imaginaba en un principio. Muchos de sus antiguos rivales y socios no creen que haya dejado realmente el negocio y aparecen con la esperanza de acabar con él.",
       "status": "Activo"
+    },
+     {
+      "id": 126,
+      "name": "Make Heroine ga Oosugiru!",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4038.jpg",
+      "value": 9.1,
+      "category": [
+        "Shounen","Comedia","Escolares","Romance"
+      ],
+      "description": "Chicas que no lograron conquistar los corazones de las personas que les gustaban: protagonistas perdedoras, es decir, Makeines. Anna Yanami, una chica que adora la comida y la clásica amiga de la infancia. Lemon Yakishio, una chica repleta de energía y muy divertida. Chika Komari, una chica tímida y asustadiza. ¡Una refrescante historia de juventud que nos muestra el lado perdedor del amor con unas protagonistas algo cuestionables! ¡Pierdan y brillen, chicas!",
+      "status": "Finalizado"
     }
 
   ]
