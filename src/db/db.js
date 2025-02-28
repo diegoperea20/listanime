@@ -318,7 +318,7 @@ const db =[
       "id": 29,
       "name": "Charlotte",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2091.jpg",
-      "value": 9.5,
+      "value": 9.7,
       "category": [
         "Drama", "Escolares", "Superpoderes"
       ],
@@ -648,7 +648,7 @@ const db =[
       "id": 59,
       "name": "Kiznaiver",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2454.jpg",
-      "value": 9.4,
+      "value": 9.7,
       "category": [
         "Ciencia Ficción", "Drama"
       ],
