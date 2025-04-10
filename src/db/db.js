@@ -1396,6 +1396,17 @@ const db =[
       ],
       "description": "Chicas que no lograron conquistar los corazones de las personas que les gustaban: protagonistas perdedoras, es decir, Makeines. Anna Yanami, una chica que adora la comida y la clásica amiga de la infancia. Lemon Yakishio, una chica repleta de energía y muy divertida. Chika Komari, una chica tímida y asustadiza. ¡Una refrescante historia de juventud que nos muestra el lado perdedor del amor con unas protagonistas algo cuestionables! ¡Pierdan y brillen, chicas!",
       "status": "Finalizado"
+    },
+    {
+      "id": 127,
+      "name": "Lazarus",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4158.jpg",
+      "value": 9,
+      "category": [
+        "Shounen","Ciencia Ficción","Acción","Seinen"
+      ],
+      "description": "El año es 2052 y una era de paz y prosperidad sin precedentes domina el mundo. La razón detrás de esto es que la humanidad ha sido liberada del dolor y las enfermedades. El neurocientífico ganador del Premio Nobel, Dr. Skinner, desarrolló un medicamento milagroso sin aparentes efectos secundarios llamado Hapuna. Pronto, esta droga se vuelve indispensable en la sociedad. Sin embargo, poco después de su lanzamiento oficial, Dr. Skinner desaparece misteriosamente. Tres años después, el mundo ha seguido adelante, pero Skinner regresa con una aterradora revelación: Hapuna tiene una vida media corta y todos los que la tomaron morirán en aproximadamente tres años. Con esta declaración, el fin de la humanidad parece inevitable. En respuesta a esta crisis, se forma una fuerza especial de cinco agentes de élite de distintos lugares del mundo con el objetivo de detener el plan de Skinner y salvar a la humanidad. Esta unidad recibe el nombre de Lazarus. ¿Podrán encontrar a Skinner y desarrollar una vacuna antes de que el tiempo se agote?",
+      "status": "Activo"
     }
 
   ]
