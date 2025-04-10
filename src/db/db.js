@@ -1384,7 +1384,7 @@ const db =[
         "Shounen","Acción","Comedia"
       ],
       "description": "Tarou Sakamoto fue considerado el mejor asesino a sueldo de todos los tiempos. Temido por muchos, estaba en la cima del mundo clandestino hasta que conoció y se enamoró de una mujer. Como resultado, Sakamoto abandonó su vida criminal y ahora trabaja como dependiente de una tienda. Dejar atrás su turbio pasado resulta más difícil de lo que Sakamoto imaginaba en un principio. Muchos de sus antiguos rivales y socios no creen que haya dejado realmente el negocio y aparecen con la esperanza de acabar con él.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 126,
