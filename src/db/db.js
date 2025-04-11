@@ -1407,6 +1407,17 @@ const db =[
       ],
       "description": "El año es 2052 y una era de paz y prosperidad sin precedentes domina el mundo. La razón detrás de esto es que la humanidad ha sido liberada del dolor y las enfermedades. El neurocientífico ganador del Premio Nobel, Dr. Skinner, desarrolló un medicamento milagroso sin aparentes efectos secundarios llamado Hapuna. Pronto, esta droga se vuelve indispensable en la sociedad. Sin embargo, poco después de su lanzamiento oficial, Dr. Skinner desaparece misteriosamente. Tres años después, el mundo ha seguido adelante, pero Skinner regresa con una aterradora revelación: Hapuna tiene una vida media corta y todos los que la tomaron morirán en aproximadamente tres años. Con esta declaración, el fin de la humanidad parece inevitable. En respuesta a esta crisis, se forma una fuerza especial de cinco agentes de élite de distintos lugares del mundo con el objetivo de detener el plan de Skinner y salvar a la humanidad. Esta unidad recibe el nombre de Lazarus. ¿Podrán encontrar a Skinner y desarrollar una vacuna antes de que el tiempo se agote?",
       "status": "Activo"
+    },
+     {
+      "id": 128,
+      "name": "Your Forma",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4139.jpg",
+      "value": 8.8,
+      "category": [
+        "Ciencia Ficción","Acción","Seinen","Misterio"
+      ],
+      "description": "En un 2023 alternativo, el Your Forma, una milagrosa tecnología de «hilo inteligente» desarrollada inicialmente para tratar un brote masivo de encefalitis vírica, se ha convertido en parte integrante de la vida cotidiana. Pero estos prácticos dispositivos tienen un inconveniente invasivo: registran cada visión, sonido e incluso emoción que experimentan sus usuarios. Para la investigadora electrónica Echika Hieda, bucear en los recuerdos de la gente a través de Your Forma y buscar pruebas para resolver los crímenes más difíciles forma parte de su trabajo diario. El problema es que es tan buena en lo que hace que sus ayudantes se fríen literalmente los sesos intentando seguirle el ritmo. Después de mandar a demasiados ayudantes al hospital, los altos mandos finalmente proporcionan a Echika un compañero a su altura, un androide brillante pero descarado llamado Harold Lucraft. ¿Tendrá este improbable dúo lo que hace falta para resolver sus sospechas mutuas y evitar que una infección tecnológica mortal se extienda por todo el mundo antes de que sea demasiado tarde?",
+      "status": "Activo"
     }
 
   ]
