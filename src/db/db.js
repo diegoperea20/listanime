@@ -285,7 +285,7 @@ const db =[
       "id": 26,
       "name": "Toaru Majutsu no Index",
       "image": "https://www3.animeflv.net/uploads/animes/covers/175.jpg",
-      "value": 8.6,
+      "value": 8.7,
       "category": [
         "Acción", "Ciencia Ficción", "Magia", "Superpoderes"
       ],
@@ -472,7 +472,7 @@ const db =[
       "id": 43,
       "name": "Chuunibyou demo Koi ga Shitai!",
       "image": "https://www3.animeflv.net/uploads/animes/covers/860.jpg",
-      "value": 8.4,
+      "value": 8.7,
       "category": [
         "Comedia", "Drama", "Escolares", "Recuentos de la vida", "Romance"
       ],
@@ -516,7 +516,7 @@ const db =[
       "id": 47,
       "name": "Golden Time",
       "image": "https://www3.animeflv.net/uploads/animes/covers/1139.jpg",
-      "value": 8.4,
+      "value": 8.7,
       "category": [
         "Comedia", "Romance", "Seinen"
       ],
