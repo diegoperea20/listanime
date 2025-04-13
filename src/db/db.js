@@ -1429,6 +1429,17 @@ const db =[
       ],
       "description": "Morihito Otogi es un estudiante de preparatoria con la fuerza de un ogro. Su vida transcurre en paz hasta que su amiga de la infancia y bruja en prácticas, Nico Wakatsuki, se muda a su casa. Nico está entusiasmada con su reencuentro y convierte a Morihito en su familiar. Ahora Morihito tendrá que centrarse en su misión de proteger a Nico de los peligros que le profetizaron. Así comienzan sus días llenos de misticismo y problemas.",
       "status": "Activo"
+    },
+    {
+      "id": 130,
+      "name": "Vigilante: Boku no Hero Academia Illegals",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4163.jpg",
+      "value": 9.5,
+      "category": [
+        "Shounen","Acción","Superpoderes"
+      ],
+      "description": "Koichi Haimawari es un estudiante aburrido que aspiraba a ser un héroe pero abandonó su sueño. Aunque el 80% de la población mundial tenga poderes sobrehumanos llamados Dones, pocos son elegidos para convertirse en héroes y proteger a las personas. ¡Todo cambia para Koichi cuando él y Pop☆Step son salvados por el vigilante Knuckleduster y son reclutados para convertirse en vigilantes!",
+      "status": "Activo"
     }
 
   ]
