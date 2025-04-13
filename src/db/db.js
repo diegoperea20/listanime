@@ -1418,6 +1418,17 @@ const db =[
       ],
       "description": "En un 2023 alternativo, el Your Forma, una milagrosa tecnología de «hilo inteligente» desarrollada inicialmente para tratar un brote masivo de encefalitis vírica, se ha convertido en parte integrante de la vida cotidiana. Pero estos prácticos dispositivos tienen un inconveniente invasivo: registran cada visión, sonido e incluso emoción que experimentan sus usuarios. Para la investigadora electrónica Echika Hieda, bucear en los recuerdos de la gente a través de Your Forma y buscar pruebas para resolver los crímenes más difíciles forma parte de su trabajo diario. El problema es que es tan buena en lo que hace que sus ayudantes se fríen literalmente los sesos intentando seguirle el ritmo. Después de mandar a demasiados ayudantes al hospital, los altos mandos finalmente proporcionan a Echika un compañero a su altura, un androide brillante pero descarado llamado Harold Lucraft. ¿Tendrá este improbable dúo lo que hace falta para resolver sus sospechas mutuas y evitar que una infección tecnológica mortal se extienda por todo el mundo antes de que sea demasiado tarde?",
       "status": "Activo"
+    },
+    {
+      "id": 129,
+      "name": "Witch Watch",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4153.jpg",
+      "value": 9.2,
+      "category": [
+        "Shounen","Comedia","Sobrenatural"
+      ],
+      "description": "Morihito Otogi es un estudiante de preparatoria con la fuerza de un ogro. Su vida transcurre en paz hasta que su amiga de la infancia y bruja en prácticas, Nico Wakatsuki, se muda a su casa. Nico está entusiasmada con su reencuentro y convierte a Morihito en su familiar. Ahora Morihito tendrá que centrarse en su misión de proteger a Nico de los peligros que le profetizaron. Así comienzan sus días llenos de misticismo y problemas.",
+      "status": "Activo"
     }
 
   ]
