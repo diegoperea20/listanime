@@ -1440,6 +1440,17 @@ const db =[
       ],
       "description": "Koichi Haimawari es un estudiante aburrido que aspiraba a ser un héroe pero abandonó su sueño. Aunque el 80% de la población mundial tenga poderes sobrehumanos llamados Dones, pocos son elegidos para convertirse en héroes y proteger a las personas. ¡Todo cambia para Koichi cuando él y Pop☆Step son salvados por el vigilante Knuckleduster y son reclutados para convertirse en vigilantes!",
       "status": "Activo"
+    },
+    {
+      "id": 131,
+      "name": "Kowloon Generic Romance",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4150.jpg",
+      "value": 9,
+      "category": [
+        "Romance","Ciencia Ficción","Seinen"
+      ],
+      "description": "Los agentes inmobiliarios Reiko Kujirai y Hajime Kudo trabajan en la melancólica ciudad amurallada de Kowloon. A medida que comparten momentos en común, los sentimientos de Reiko por Hajime se intensifican. Pero cuando encuentra una foto de él con su antigua prometida, se sorprende al ver que aquella mujer es idéntica a ella. Reiko se da cuenta entonces de un escalofriante hecho: no recuerda nada de su pasado.",
+      "status": "Activo"
     }
 
   ]
