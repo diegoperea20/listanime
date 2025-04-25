@@ -560,7 +560,7 @@ const db =[
       "id": 51,
       "name": "Kono Subarashii Sekai ni Shukufuku wo!",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2381.jpg",
-      "value": 8.7,
+      "value": 9.2,
       "category": [
         "Aventuras", "Comedia", "Fantasía", "Sobrenatural"
       ],
