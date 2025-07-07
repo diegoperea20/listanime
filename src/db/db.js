@@ -92,7 +92,7 @@ const db =[
       "id": 9,
       "name": "Boruto: Naruto Next Generations",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2702.jpg",
-      "value": 8.7,
+      "value": 9,
       "category": [
         "Acción", "Artes Marciales", "Aventuras", "Shounen", "Superpoderes"
       ],
@@ -225,7 +225,7 @@ const db =[
       "id": 21,
       "name": "Bungou Stray Dogs",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2446.jpg",
-      "value": 8.7,
+      "value": 8.8,
       "category": [
         "Acción", "Comedia", "Misterio", "Seinen", "Sobrenatural"
       ],
@@ -516,7 +516,7 @@ const db =[
       "id": 47,
       "name": "Golden Time",
       "image": "https://www3.animeflv.net/uploads/animes/covers/1139.jpg",
-      "value": 8.7,
+      "value": 8.9,
       "category": [
         "Comedia", "Romance", "Seinen"
       ],
@@ -1115,7 +1115,7 @@ const db =[
       "id": 101,
       "name": "Chainsaw Man",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3707.jpg",
-      "value": 9.3,
+      "value": 9,
       "category": [
         "Acción", "Sobrenatural","Shounen"
       ],
@@ -1280,7 +1280,7 @@ const db =[
       "id": 116,
       "name": "Kaijuu 8-gou",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3991.jpg",
-      "value": 9.6,
+      "value": 9.5,
       "category": [
         "Acción", "Ciencia Ficción", "Militar", "Shounen"
       ],
@@ -1291,7 +1291,7 @@ const db =[
       "id": 117,
       "name": "Sentai Daishikkaku",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3973.jpg",
-      "value": 9.4,
+      "value": 9.1,
       "category": [
         "Acción", "Ciencia Ficción", "Shounen"
       ],
@@ -1302,7 +1302,7 @@ const db =[
       "id": 118,
       "name": "Shoushimin Series",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4022.jpg",
-      "value": 9.2,
+      "value": 9.8,
       "category": [
         "Escolares", "Misterio"
       ],
@@ -1390,7 +1390,7 @@ const db =[
       "id": 126,
       "name": "Make Heroine ga Oosugiru!",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4038.jpg",
-      "value": 9.1,
+      "value": 9.2,
       "category": [
         "Shounen","Comedia","Escolares","Romance"
       ],
@@ -1412,7 +1412,7 @@ const db =[
       "id": 128,
       "name": "Your Forma",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4139.jpg",
-      "value": 8.8,
+      "value": 8,
       "category": [
         "Ciencia Ficción","Acción","Seinen","Misterio"
       ],
