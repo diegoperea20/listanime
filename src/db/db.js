@@ -868,7 +868,7 @@ const db =[
       "id": 79,
       "name": "Tate no Yuusha no Nariagari",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3074.jpg",
-      "value": 8.9,
+      "value": 8.4,
       "category": [
         "Acción", "Aventuras", "Comedia", "Drama", "Fantasía", "Romance", "Seinen"
       ],
@@ -1406,7 +1406,7 @@ const db =[
         "Shounen","Ciencia Ficción","Acción","Seinen"
       ],
       "description": "El año es 2052 y una era de paz y prosperidad sin precedentes domina el mundo. La razón detrás de esto es que la humanidad ha sido liberada del dolor y las enfermedades. El neurocientífico ganador del Premio Nobel, Dr. Skinner, desarrolló un medicamento milagroso sin aparentes efectos secundarios llamado Hapuna. Pronto, esta droga se vuelve indispensable en la sociedad. Sin embargo, poco después de su lanzamiento oficial, Dr. Skinner desaparece misteriosamente. Tres años después, el mundo ha seguido adelante, pero Skinner regresa con una aterradora revelación: Hapuna tiene una vida media corta y todos los que la tomaron morirán en aproximadamente tres años. Con esta declaración, el fin de la humanidad parece inevitable. En respuesta a esta crisis, se forma una fuerza especial de cinco agentes de élite de distintos lugares del mundo con el objetivo de detener el plan de Skinner y salvar a la humanidad. Esta unidad recibe el nombre de Lazarus. ¿Podrán encontrar a Skinner y desarrollar una vacuna antes de que el tiempo se agote?",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 128,
@@ -1417,7 +1417,7 @@ const db =[
         "Ciencia Ficción","Acción","Seinen","Misterio"
       ],
       "description": "En un 2023 alternativo, el Your Forma, una milagrosa tecnología de «hilo inteligente» desarrollada inicialmente para tratar un brote masivo de encefalitis vírica, se ha convertido en parte integrante de la vida cotidiana. Pero estos prácticos dispositivos tienen un inconveniente invasivo: registran cada visión, sonido e incluso emoción que experimentan sus usuarios. Para la investigadora electrónica Echika Hieda, bucear en los recuerdos de la gente a través de Your Forma y buscar pruebas para resolver los crímenes más difíciles forma parte de su trabajo diario. El problema es que es tan buena en lo que hace que sus ayudantes se fríen literalmente los sesos intentando seguirle el ritmo. Después de mandar a demasiados ayudantes al hospital, los altos mandos finalmente proporcionan a Echika un compañero a su altura, un androide brillante pero descarado llamado Harold Lucraft. ¿Tendrá este improbable dúo lo que hace falta para resolver sus sospechas mutuas y evitar que una infección tecnológica mortal se extienda por todo el mundo antes de que sea demasiado tarde?",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 129,
@@ -1428,7 +1428,7 @@ const db =[
         "Shounen","Comedia","Sobrenatural"
       ],
       "description": "Morihito Otogi es un estudiante de preparatoria con la fuerza de un ogro. Su vida transcurre en paz hasta que su amiga de la infancia y bruja en prácticas, Nico Wakatsuki, se muda a su casa. Nico está entusiasmada con su reencuentro y convierte a Morihito en su familiar. Ahora Morihito tendrá que centrarse en su misión de proteger a Nico de los peligros que le profetizaron. Así comienzan sus días llenos de misticismo y problemas.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 130,
@@ -1439,7 +1439,7 @@ const db =[
         "Shounen","Acción","Superpoderes"
       ],
       "description": "Koichi Haimawari es un estudiante aburrido que aspiraba a ser un héroe pero abandonó su sueño. Aunque el 80% de la población mundial tenga poderes sobrehumanos llamados Dones, pocos son elegidos para convertirse en héroes y proteger a las personas. ¡Todo cambia para Koichi cuando él y Pop☆Step son salvados por el vigilante Knuckleduster y son reclutados para convertirse en vigilantes!",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 131,
@@ -1450,6 +1450,28 @@ const db =[
         "Romance","Ciencia Ficción","Seinen"
       ],
       "description": "Los agentes inmobiliarios Reiko Kujirai y Hajime Kudo trabajan en la melancólica ciudad amurallada de Kowloon. A medida que comparten momentos en común, los sentimientos de Reiko por Hajime se intensifican. Pero cuando encuentra una foto de él con su antigua prometida, se sorprende al ver que aquella mujer es idéntica a ella. Reiko se da cuenta entonces de un escalofriante hecho: no recuerda nada de su pasado.",
+      "status": "Finalizado"
+    },
+    {
+      "id": 132,
+      "name": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4142.jpg",
+      "value": 8.3,
+      "category": [
+        "Romance","Comedia","Escolares"
+      ],
+      "description": "La amistad de la infancia entre Himari y Yu se tambalea cuando Yu se reencuentra en preparatoria con su primer amor. Himari, que nunca experimentó la emoción del amor, ahora debe enfrentar sus propios sentimientos. Sus sueños compartidos y los tranquilos días en su club de jardinería se ponen a prueba en esta historia con amor, flores y los altibajos que supone madurar.",
+      "status": "Finalizado"
+    },
+     {
+      "id": 133,
+      "name": "Nyaight of the Living Cat",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4207.jpg",
+      "value": 8.3,
+      "category": [
+        "Shounen","Acción","Suspenso"
+      ],
+      "description": "¡Corre! En 20XX, el mundo está dominado por los gatos. Un virus que convierte en gato a cualquiera que toque a un gato se ha extendido hasta convertirse en una nyandemia mundial. Cada vez que los gatos rozan a un humano, este se convierte en gato. ¿Podrá la humanidad luchar contra su impulso de acariciar a los gatos para sobrevivir en un mundo plagado de gatos?",
       "status": "Activo"
     }
 
