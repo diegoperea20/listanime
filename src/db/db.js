@@ -1473,6 +1473,17 @@ const db =[
       ],
       "description": "¡Corre! En 20XX, el mundo está dominado por los gatos. Un virus que convierte en gato a cualquiera que toque a un gato se ha extendido hasta convertirse en una nyandemia mundial. Cada vez que los gatos rozan a un humano, este se convierte en gato. ¿Podrá la humanidad luchar contra su impulso de acariciar a los gatos para sobrevivir en un mundo plagado de gatos?",
       "status": "Activo"
+    },
+    {
+      "id": 134,
+      "name": "Hikaru ga Shinda Natsu",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4200.jpg",
+      "value": 9,
+      "category": [
+        "Misterio","Sobrenatural","Terror"
+      ],
+      "description": "Los mejores amigos Yoshiki y Hikaru han estado pegados el uno al otro como si fueran una sola persona durante la mayor parte de sus vidas. Viviendo en un pequeño pueblo y siendo los únicos niños de su edad, los dos chicos encuentran consuelo en la compañía del otro. Su amistad parece idílica a simple vista, pero Yoshiki ha notado un cambio en el comportamiento de Hikaru desde un verano fatídico. El "Hikaru" que se sienta a su lado ahora no es nada parecido a su amigo. A pesar de que su apariencia física y recuerdos permanecen exactamente iguales, Yoshiki sabe que algo no está bien y que el Hikaru que conocía se ha ido. Cuando menciona esto, Hikaru se transforma parcialmente en un ser de otro mundo, amenazando con matar a Yoshiki si no puede aceptarlo, mientras también le profesa su amor. Afectado por el dolor y sin poder dejar ir a su mejor amigo, Yoshiki lucha por seguir adelante con su vida mientras se siente cada vez más cerca del nuevo Hikaru. Al mismo tiempo, extraños acontecimientos comienzan a asolar su pueblo, trayendo un caos inquietante.",
+      "status": "Activo"
     }
 
   ]
