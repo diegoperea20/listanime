@@ -1495,6 +1495,28 @@ const db =[
       ],
       "description": "En una ciudad flotante donde los ricos se deshacen de su basura y de las personas, a Ludo lo acusan de asesinato y lo arrojan al Abismo, un infierno habitado por las bestias de la basura. Para sobrevivir, deberá hacer uso de un nuevo poder y unirse a los Limpiadores. El objetivo de Ludo no es solo acabar con los monstruos, sino también con aquellos que lo arrojaron al Infierno.",
       "status": "Activo"
+    },
+    {
+      "id": 136,
+      "name": "Takopii no Genzai",
+      "image": "/animeNoAVAILABLE.png",
+      "value": 9.8,
+      "category": [
+        "Seinen", "Ciencia Ficción", "Drama"
+      ],
+      "description": "Takopi, un alienígena procedente del planeta Feliz, aterriza en la Tierra con una misión: ¡propagar la felicidad! Cuando conoce a Shizuka, una chica solitaria de cuarto curso, promete devolverle la sonrisa usando sus Artefactos de la Felicidad. Pero mientras descubre el dolor que hay en su vida, Takopi aprende que para ser feliz quizás necesites algo más que artilugios.",
+      "status": "Activo"
+    },
+    {
+      "id": 137,
+      "name": "To Be Hero X",
+      "image": "/animeNoAVAILABLE.png",
+      "value": 9.5,
+      "category": [
+        "Shounen","Acción","Superpoderes","Fantasía"
+      ],
+      "description": "Este es un mundo en el que los mejores héroes son aclamados. El Valor de Confianza es lo que crea superhéroes. Si la gente cree que un héroe «puede volar», adquirirá la capacidad de volar. También ocurre al revés: aunque un héroe tenga poderes, si baja su Valor de Confianza, también perderá sus poderes. El Valor de Confianza se mide en forma de datos y se usa para clasificar a los héroes. Una vez cada dos años, los mejores héroes se reúnen para competir en un torneo especial. El Valor de Confianza de los participantes en el torneo varía en función de su rendimiento en el mismo, actualizándose posteriormente la clasificación, y al héroe que queda en lo más alto se lo conoce como X",
+      "status": "Finalizado"
     }
 
   ]
