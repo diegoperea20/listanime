@@ -1517,7 +1517,19 @@ const db =[
       ],
       "description": "Este es un mundo en el que los mejores héroes son aclamados. El Valor de Confianza es lo que crea superhéroes. Si la gente cree que un héroe «puede volar», adquirirá la capacidad de volar. También ocurre al revés: aunque un héroe tenga poderes, si baja su Valor de Confianza, también perderá sus poderes. El Valor de Confianza se mide en forma de datos y se usa para clasificar a los héroes. Una vez cada dos años, los mejores héroes se reúnen para competir en un torneo especial. El Valor de Confianza de los participantes en el torneo varía en función de su rendimiento en el mismo, actualizándose posteriormente la clasificación, y al héroe que queda en lo más alto se lo conoce como X",
       "status": "Finalizado"
+    },
+    {
+      "id": 138,
+      "name": "Pluto",
+      "image": "/animeNoAVAILABLE.png",
+      "value": 10,
+      "category": [
+        "Seinen", "Ciencia Ficción", "Drama" ,"Shounen","Acción", "Misterio"
+      ],
+      "description": "Cuando los siete robots más avanzados del mundo y sus aliados humanos son asesinados uno por uno, el inspector Gesicht descubre que él también está en peligro...",
+      "status": "Finalizado"
     }
+   
 
   ]
 
