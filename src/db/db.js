@@ -1467,7 +1467,7 @@ const db =[
       "id": 133,
       "name": "Nyaight of the Living Cat",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4207.jpg",
-      "value": 8.3,
+      "value": 8.7,
       "category": [
         "Shounen","Acción","Suspenso"
       ],
@@ -1478,7 +1478,7 @@ const db =[
       "id": 134,
       "name": "Hikaru ga Shinda Natsu",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4200.jpg",
-      "value": 9,
+      "value": 8.2,
       "category": [
         "Misterio","Sobrenatural","Terror"
       ],
@@ -1511,7 +1511,7 @@ const db =[
       "id": 137,
       "name": "To Be Hero X",
       "image": "/animeNoAVAILABLE.png",
-      "value": 9.5,
+      "value": 9.7,
       "category": [
         "Shounen","Acción","Superpoderes","Fantasía"
       ],
@@ -1520,7 +1520,7 @@ const db =[
     },
     {
       "id": 138,
-      "name": "Pluto",
+      "name": "Pluto Netflix",
       "image": "/animeNoAVAILABLE.png",
       "value": 10,
       "category": [
