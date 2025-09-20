@@ -1511,7 +1511,7 @@ const db =[
       "id": 137,
       "name": "To Be Hero X",
       "image": "/animeNoAVAILABLE.png",
-      "value": 9.7,
+      "value": 10,
       "category": [
         "Shounen","Acción","Superpoderes","Fantasía"
       ],
