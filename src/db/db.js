@@ -1472,7 +1472,7 @@ const db =[
         "Shounen","Acción","Suspenso"
       ],
       "description": "¡Corre! En 20XX, el mundo está dominado por los gatos. Un virus que convierte en gato a cualquiera que toque a un gato se ha extendido hasta convertirse en una nyandemia mundial. Cada vez que los gatos rozan a un humano, este se convierte en gato. ¿Podrá la humanidad luchar contra su impulso de acariciar a los gatos para sobrevivir en un mundo plagado de gatos?",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 134,
