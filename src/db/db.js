@@ -1528,6 +1528,17 @@ const db =[
       ],
       "description": "Cuando los siete robots más avanzados del mundo y sus aliados humanos son asesinados uno por uno, el inspector Gesicht descubre que él también está en peligro...",
       "status": "Finalizado"
+    },
+    {
+      "id": 139,
+      "name": "Sanda",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4242.jpg",
+      "value": 9,
+      "category": [
+        "Shounen","Acción", "Misterio","Escolares"
+      ],
+      "description": "La historia comienza con Sanda, un estudiante de segundo año de secundaria, siendo atacado con un cuchillo de cocina por su compañero de clase Fuyumura. Aunque al principio Sanda no podía entender la situación, gradualmente comenzó a creer que las acciones de Fuyumura eran simplemente actos crueles que provenían de una fase pubertaria peculiar.",
+      "status": "Activo"
     }
    
 
