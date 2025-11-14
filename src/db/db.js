@@ -1539,6 +1539,17 @@ const db =[
       ],
       "description": "La historia comienza con Sanda, un estudiante de segundo año de secundaria, siendo atacado con un cuchillo de cocina por su compañero de clase Fuyumura. Aunque al principio Sanda no podía entender la situación, gradualmente comenzó a creer que las acciones de Fuyumura eran simplemente actos crueles que provenían de una fase pubertaria peculiar.",
       "status": "Activo"
+    },
+     {
+      "id": 140,
+      "name": "The Fragrant Flower Blooms With Dignity",
+      "image": "/animeNoAVAILABLE.png",
+      "value": 8.9,
+      "category": [
+        "Romance","Drama","Escolares"
+      ],
+      "description": "Cuando el intimidante Rintaro conoce a la tierna Kaoruko, nace una inesperada relación cercana. Solo hay un pequeño problema: las escuelas a las que van son archienemigas.",
+      "status": "Activo"
     }
    
 
