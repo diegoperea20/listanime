@@ -34,6 +34,12 @@ Get id
 ```bash
 https://listanime-umber.vercel.app/api/listanimes/2
 ```
+
+Search name
+```bash
+https://listanime-umber.vercel.app/api/search/naruto
+```
+
 ---
 #### Local
 Get
@@ -52,6 +58,18 @@ http://localhost:3000/api/listanimes/2
 <p align="center">
   <img src="README-images/getid.PNG" alt="getid">
 </p>
+
+
+Get search name
+```bash
+http://localhost:3000/api/search/naruto
+```
+
+<p align="center">
+  <img src="README-images/search.png" alt="getsearchname">
+</p>
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
