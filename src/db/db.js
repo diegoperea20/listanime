@@ -760,7 +760,7 @@ const db =[
       "image": "https://a.storyblok.com/f/178900/636x900/b8dee6d69b/3f37fe13630e6f82acaccbd96a3785c21500883733_full.jpg/m/636x900",
       "value": 9.4,
       "category": [
-        "Comedia", "Escolares", "Ciencia ficción"
+        "Comedia", "Escolares", "Ciencia Ficción"
       ],
       "description": "Saiki Kusuo es un estudiante con poderes psíquicos. Ha mantenido sus habilidades bajo control desde la infancia, ¡pero la escuela preparatoria está cambiando todas sus reglas!",
       "status": "Finalizado"
