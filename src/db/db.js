@@ -309,7 +309,7 @@ const db =[
       "image": "https://www3.animeflv.net/uploads/animes/covers/2218.jpg",
       "value": 9.6,
       "category": [
-        "Acción", "Ciencia", "Ficción", "Comedia", "Parodia", "Seinen", "Sobrenatural", "Superpoderes"
+        "Acción", "Ciencia Ficción", "Comedia", "Parodia", "Seinen", "Sobrenatural", "Superpoderes"
       ],
       "description": "La serie está protagonizada por un héroe que ha entrenado tanto que se ha quedado calvo, y tiene tanta fuerza que puede acabar con cualquier enemigo de un solo puñetazo. Sin embargo, al ser tan fuerte, se aburre y se frustra porque no le cuesta nada vencer sus batallas.",
       "status": "Finalizado"
@@ -331,7 +331,7 @@ const db =[
       "image": "https://www3.animeflv.net/uploads/animes/covers/29.jpg",
       "value": 9.3,
       "category": [
-        "Acción", "Ciencia", "Ficción", "Escolares", "Mecha", "Militar", "Superpoderes"
+        "Acción", "Ciencia Ficción", "Escolares", "Mecha", "Militar", "Superpoderes"
       ],
       "description": "Nos situamos en una realidad alternativa, donde el Imperio de Britania ha conquistado prácticamente todo el planeta. A los países subyugados bajo su poder opresor les ha arrebatado la libertad, los derechos e incluso el nombre. Área 11, ésa es la denominación que ahora tienen los japoneses. Allí, un joven llamado Lelouch comenzará su rebelión, el día en que por casualidad se topa con la misteriosa C.C., quien le concede un poder peculiar: El Geass, el poder de la absoluta obediencia. Basta con cruzar su mirada con la de su objetivo para que éste cumpla cualquier orden que Lelouch realice, sea cual sea, aunque signifique su propia destrucción.",
       "status": "Finalizado"
@@ -342,7 +342,7 @@ const db =[
       "image": "https://www3.animeflv.net/uploads/animes/covers/460.jpg",
       "value": 9,
       "category": [
-        "Acción", "Ciencia", "Ficción", "Demencia", "Drama", "Mecha", "Psicológico"
+        "Acción", "Ciencia Ficción", "Demencia", "Drama", "Mecha", "Psicológico"
       ],
       "description": "Según cuentan los libros de historia, el 13 de Septiembre del 2000, un enorme meteorito chocó contra la Antártida, causando el derretimiento del Polo Sur y la consecuente inundación y destrucción de todas las ciudades costeras. A este evento crucial se lo denomino Segundo Impacto -El primero fue el que destruyó a los dinosaurios-. La Tierra atravesó luego de ello un estado de crisis y catástrofes naturales y más de mitad de la población humana murió. Han pasado 15 años desde el Segundo Impacto cuando Tokyo-3, es atacada por un misterioso ser orgánico gigante, sin embargo esto no parece ser una sorpresa para un selecto grupo de gente de una organización de la ONU llamada NERV. Ellos se refieren al enemigo como 'Tercer Ángel' y han desarrollado unos enigmáticos robots gigantes llamados EVA con una particularidad, solo pueden ser piloteados por jóvenes de 14 años con caracteristicas no del todo claras.",
       "status": "Finalizado"
