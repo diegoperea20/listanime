@@ -934,7 +934,7 @@ const db =[
       "id": 85,
       "name": "Avatar: La leyenda de Korra",
       "image": "https://www3.animeflv.net/uploads/animes/covers/799.jpg",
-      "value": 8.6,
+      "value": 9.6,
       "category": [
         "Acción",
         "Artes Marciales",
