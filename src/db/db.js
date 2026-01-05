@@ -1494,7 +1494,7 @@ const db =[
         "Shounen","Acción","Fantasía"
       ],
       "description": "En una ciudad flotante donde los ricos se deshacen de su basura y de las personas, a Ludo lo acusan de asesinato y lo arrojan al Abismo, un infierno habitado por las bestias de la basura. Para sobrevivir, deberá hacer uso de un nuevo poder y unirse a los Limpiadores. El objetivo de Ludo no es solo acabar con los monstruos, sino también con aquellos que lo arrojaron al Infierno.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 136,
