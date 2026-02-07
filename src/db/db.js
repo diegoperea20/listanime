@@ -1505,7 +1505,7 @@ const db =[
         "Seinen", "Ciencia Ficción", "Drama"
       ],
       "description": "Takopi, un alienígena procedente del planeta Feliz, aterriza en la Tierra con una misión: ¡propagar la felicidad! Cuando conoce a Shizuka, una chica solitaria de cuarto curso, promete devolverle la sonrisa usando sus Artefactos de la Felicidad. Pero mientras descubre el dolor que hay en su vida, Takopi aprende que para ser feliz quizás necesites algo más que artilugios.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
     {
       "id": 137,
@@ -1538,7 +1538,7 @@ const db =[
         "Shounen","Acción", "Misterio","Escolares"
       ],
       "description": "La historia comienza con Sanda, un estudiante de segundo año de secundaria, siendo atacado con un cuchillo de cocina por su compañero de clase Fuyumura. Aunque al principio Sanda no podía entender la situación, gradualmente comenzó a creer que las acciones de Fuyumura eran simplemente actos crueles que provenían de una fase pubertaria peculiar.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 140,
@@ -1549,6 +1549,17 @@ const db =[
         "Romance","Drama","Escolares"
       ],
       "description": "Cuando el intimidante Rintaro conoce a la tierna Kaoruko, nace una inesperada relación cercana. Solo hay un pequeño problema: las escuelas a las que van son archienemigas.",
+      "status": "Finalizado"
+    },
+      {
+      "id": 141,
+      "name": "Darwin Jihen",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4296.jpg",
+      "value": 9.2,
+      "category": [
+         "Seinen", "Ciencia Ficción"
+      ],
+      "description": "La Alianza por la Liberación Animal, una organización ecoterrorista, rescata a una chimpancé embarazada de un laboratorio de pruebas con animales, ¡solo para que dé a luz a un "humanzé" mitad humano, mitad chimpancé llamado Charlie! Quince años después, los padres adoptivos humanos de Charlie están finalmente listos para enviarlo a una escuela secundaria normal, donde hace su primer amigo: una niña humana llamada Lucy. Sin embargo, mientras tanto, la postura de la ALA se ha vuelto cada vez más extrema, y ahora están aquí para arrastrar a Charlie a su complot terrorista...",
       "status": "Activo"
     }
    
