@@ -1559,7 +1559,7 @@ const db =[
       "category": [
          "Seinen", "Ciencia Ficción"
       ],
-      "description": "La Alianza por la Liberación Animal, una organización ecoterrorista, rescata a una chimpancé embarazada de un laboratorio de pruebas con animales, ¡solo para que dé a luz a un "humanzé" mitad humano, mitad chimpancé llamado Charlie! Quince años después, los padres adoptivos humanos de Charlie están finalmente listos para enviarlo a una escuela secundaria normal, donde hace su primer amigo: una niña humana llamada Lucy. Sin embargo, mientras tanto, la postura de la ALA se ha vuelto cada vez más extrema, y ahora están aquí para arrastrar a Charlie a su complot terrorista...",
+      "description": "La Alianza por la Liberación Animal, una organización ecoterrorista, rescata a una chimpancé embarazada de un laboratorio de pruebas con animales, ¡solo para que dé a luz a un humanzé mitad humano, mitad chimpancé llamado Charlie! Quince años después, los padres adoptivos humanos de Charlie están finalmente listos para enviarlo a una escuela secundaria normal, donde hace su primer amigo: una niña humana llamada Lucy. Sin embargo, mientras tanto, la postura de la ALA se ha vuelto cada vez más extrema, y ahora están aquí para arrastrar a Charlie a su complot terrorista...",
       "status": "Activo"
     }
    
