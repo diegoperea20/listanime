@@ -1561,6 +1561,17 @@ const db =[
       ],
       "description": "La Alianza por la Liberación Animal, una organización ecoterrorista, rescata a una chimpancé embarazada de un laboratorio de pruebas con animales, ¡solo para que dé a luz a un humanzé mitad humano, mitad chimpancé llamado Charlie! Quince años después, los padres adoptivos humanos de Charlie están finalmente listos para enviarlo a una escuela secundaria normal, donde hace su primer amigo: una niña humana llamada Lucy. Sin embargo, mientras tanto, la postura de la ALA se ha vuelto cada vez más extrema, y ahora están aquí para arrastrar a Charlie a su complot terrorista...",
       "status": "Activo"
+    },
+     {
+      "id": 142,
+      "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4282.jpg",
+      "value": 9.0,
+      "category": [
+        "Acción","Fantasía","Shounen"
+      ],
+      "description": "Hero es el peor castigo del mundo. Aquellos condenados por crímenes atroces son sentenciados a convertirse en Héroes y obligados a ingresar al servicio militar obligatorio en la guerra contra los Señores Demonios. A estos convictos ni siquiera se les permite morir: si son asesinados, serán resucitados para luchar otro día. El héroe Xylo Forbartz, exjefe de la Orden de los Caballeros Santos, lidera una unidad penal de deplorables que combate en las líneas del frente. Es en estas circunstancias extremas donde conoce a Teoritta, una de las armas más poderosas del mundo. Cuando cada último enemigo haya sido derrotado, debes cubrirme de alabanzas y acariciarme la cabeza. Para sobrevivir y vengarse de aquellos que le hicieron daño, hace un pacto con la diosa y se lanza de lleno a un torbellino de guerra e intriga.",
+      "status": "Activo"
     }
    
 
