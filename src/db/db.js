@@ -1572,6 +1572,17 @@ const db =[
       ],
       "description": "Hero es el peor castigo del mundo. Aquellos condenados por crímenes atroces son sentenciados a convertirse en Héroes y obligados a ingresar al servicio militar obligatorio en la guerra contra los Señores Demonios. A estos convictos ni siquiera se les permite morir: si son asesinados, serán resucitados para luchar otro día. El héroe Xylo Forbartz, exjefe de la Orden de los Caballeros Santos, lidera una unidad penal de deplorables que combate en las líneas del frente. Es en estas circunstancias extremas donde conoce a Teoritta, una de las armas más poderosas del mundo. Cuando cada último enemigo haya sido derrotado, debes cubrirme de alabanzas y acariciarme la cabeza. Para sobrevivir y vengarse de aquellos que le hicieron daño, hace un pacto con la diosa y se lanza de lleno a un torbellino de guerra e intriga.",
       "status": "Activo"
+    },
+     {
+      "id": 143,
+      "name": "Seihantai na Kimi to Boku",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4318.jpg",
+      "value": 9.2,
+      "category": [
+         "Romance","Escolares","Comedia"
+      ],
+      "description": "Al lado de Miyu Suzuki, una chica de secundaria moderna y enérgica, se sienta Yuusuke Tani, un chico tranquilo y sincero. Sus interacciones son breves, limitadas a las preguntas aleatorias e inesperadas de Suzuki y a las respuestas concisas de Tani. Sin embargo, bajo estos simples intercambios, los sentimientos de amor están floreciendo en silencio. Suzuki ve a Tani por quien es: un chico directo que respeta a todos por igual, totalmente despreocupado por encajar. A diferencia de Tani, ella está demasiado obsesionada con lo que piensan los demás, desesperada por mantener su enamoramiento en secreto. Sin embargo, un pequeño malentendido lleva a Suzuki a confesar sus sentimientos—y para su deleite, Tani siente lo mismo. Nerviosos y emocionados, la joven pareja comienza a salir, embarcándose en un maravilloso viaje de amistad y amor.",
+      "status": "Activo"
     }
    
 
