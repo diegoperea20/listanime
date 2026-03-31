@@ -1555,7 +1555,7 @@ const db =[
       "id": 141,
       "name": "Darwin Jihen",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4296.jpg",
-      "value": 9.2,
+      "value": 9.7,
       "category": [
          "Seinen", "Ciencia Ficción"
       ],
@@ -1566,7 +1566,7 @@ const db =[
       "id": 142,
       "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4282.jpg",
-      "value": 9.0,
+      "value": 8.8,
       "category": [
         "Acción","Fantasía","Shounen"
       ],
@@ -1577,7 +1577,7 @@ const db =[
       "id": 143,
       "name": "Seihantai na Kimi to Boku",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4318.jpg",
-      "value": 9.2,
+      "value": 9.4,
       "category": [
          "Romance","Escolares","Comedia"
       ],
