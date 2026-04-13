@@ -1560,7 +1560,7 @@ const db =[
          "Seinen", "Ciencia Ficción"
       ],
       "description": "La Alianza por la Liberación Animal, una organización ecoterrorista, rescata a una chimpancé embarazada de un laboratorio de pruebas con animales, ¡solo para que dé a luz a un humanzé mitad humano, mitad chimpancé llamado Charlie! Quince años después, los padres adoptivos humanos de Charlie están finalmente listos para enviarlo a una escuela secundaria normal, donde hace su primer amigo: una niña humana llamada Lucy. Sin embargo, mientras tanto, la postura de la ALA se ha vuelto cada vez más extrema, y ahora están aquí para arrastrar a Charlie a su complot terrorista...",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 142,
@@ -1571,7 +1571,7 @@ const db =[
         "Acción","Fantasía","Shounen"
       ],
       "description": "Hero es el peor castigo del mundo. Aquellos condenados por crímenes atroces son sentenciados a convertirse en Héroes y obligados a ingresar al servicio militar obligatorio en la guerra contra los Señores Demonios. A estos convictos ni siquiera se les permite morir: si son asesinados, serán resucitados para luchar otro día. El héroe Xylo Forbartz, exjefe de la Orden de los Caballeros Santos, lidera una unidad penal de deplorables que combate en las líneas del frente. Es en estas circunstancias extremas donde conoce a Teoritta, una de las armas más poderosas del mundo. Cuando cada último enemigo haya sido derrotado, debes cubrirme de alabanzas y acariciarme la cabeza. Para sobrevivir y vengarse de aquellos que le hicieron daño, hace un pacto con la diosa y se lanza de lleno a un torbellino de guerra e intriga.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 143,
@@ -1582,6 +1582,28 @@ const db =[
          "Romance","Escolares","Comedia"
       ],
       "description": "Al lado de Miyu Suzuki, una chica de secundaria moderna y enérgica, se sienta Yuusuke Tani, un chico tranquilo y sincero. Sus interacciones son breves, limitadas a las preguntas aleatorias e inesperadas de Suzuki y a las respuestas concisas de Tani. Sin embargo, bajo estos simples intercambios, los sentimientos de amor están floreciendo en silencio. Suzuki ve a Tani por quien es: un chico directo que respeta a todos por igual, totalmente despreocupado por encajar. A diferencia de Tani, ella está demasiado obsesionada con lo que piensan los demás, desesperada por mantener su enamoramiento en secreto. Sin embargo, un pequeño malentendido lleva a Suzuki a confesar sus sentimientos—y para su deleite, Tani siente lo mismo. Nerviosos y emocionados, la joven pareja comienza a salir, embarcándose en un maravilloso viaje de amistad y amor.",
+      "status": "Finalizado"
+    },
+     {
+      "id": 144,
+      "name": "Tongari Boushi no Atelier",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4361.jpg",
+      "value": 9.7,
+      "category": [
+         "Acción","Fantasía","Shounen","Seinen"
+      ],
+      "description": "Coco, la humilde hija de una modista, siempre ha estado fascinada por la magia y las brujas que la practican, a pesar de las estrictas precauciones que toman para ocultar sus métodos al público. Sin embargo, cuando Coco aprovecha una oportunidad dorada para espiar a la hábil bruja Qifrey, se da cuenta de que su libro de imágenes favorito siempre ha sido en realidad un libro de magia disfrazado. ¡Emocionada, comienza a probar los diversos hechizos de inmediato! Cuando un hechizo provoca un desastre en su hogar, Qifrey la rescata justo a tiempo y decide entrenarla, dándose cuenta de que es la primera pista que ha encontrado que podría ayudarlo a rastrear a los Brimmed Caps, un grupo peligroso de herejes que experimentan con magia prohibida que altera el cuerpo y difunden artefactos mágicos entre los comunes. Pero antes de que Coco y Qifrey puedan confrontar a los Brimmed Caps, ella deberá mejorar sus habilidades mágicas y aprender a llevarse bien con los otros aprendices de Qifrey.",
+      "status": "Activo"
+    },
+     {
+      "id": 145,
+      "name": "Yomi no Tsugai",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/4351.jpg",
+      "value": 9.4,
+      "category": [
+         "Acción","Fantasía","Shounen","Aventuras"
+      ],
+      "description": "En un pueblo aislado, nacen dos gemelos, separados por el día y la noche. Años después, mientras el hermano mayor, Yuru, se ha convertido en un cazador de animales, su hermana Asa ha sido encerrada en una jaula, obligada a cumplir un deber especial que le prohíbe interactuar con más que unos pocos individuos seleccionados. En un día que, de otro modo, sería inconspicuo, un grupo de hombres armados que llegan en helicópteros, conocidos como dragones por los ciudadanos, asalta el pueblo en busca de Yuru, matando a todos los adultos a la vista. Cuando Yuru intenta reunirse con Asa y huir, en su lugar encuentra un cadáver; además, la persona que la mató afirma ser la verdadera hermana gemela de Yuru. Antes de que la mujer pueda capturarlo, Yuru es rescatado por un hombre llamado Dera, un forastero que visita el pueblo con frecuencia. Sin embargo, no pasa mucho tiempo antes de que ambos queden acorralados. En un último esfuerzo, Dera hace que Yuru ofrezca un regalo a la deidad del pueblo, invocando un par de demonios cuya existencia está destinada a revelar la verdad detrás de estos caóticos eventos.",
       "status": "Activo"
     }
    
