@@ -950,7 +950,7 @@ const db =[
       "id": 86,
       "name": "Toaru Kagaku no Railgun",
       "image": "https://www3.animeflv.net/uploads/animes/covers/339.jpg",
-      "value": 9,
+      "value": 9.1,
       "category": [
         "Acción", "Ciencia Ficción", "Superpoderes"
       ],
@@ -1181,7 +1181,7 @@ const db =[
       "id": 107,
       "name": "Mashle",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3790.jpg",
-      "value": 9.3,
+      "value": 9.0,
       "category": [
         "Acción", "Comedia", "Escolares", "Fantasía", "Parodia", "Shounen"
       ],
@@ -1258,7 +1258,7 @@ const db =[
       "id": 114,
       "name": "Undead Unluck",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3891.jpg",
-      "value": 9.2,
+      "value": 9.0,
       "category": [
         "Acción", "Comedia", "Shounen", "Sobrenatural", "Superpoderes"
       ],
@@ -1291,7 +1291,7 @@ const db =[
       "id": 117,
       "name": "Sentai Daishikkaku",
       "image": "https://www3.animeflv.net/uploads/animes/covers/3973.jpg",
-      "value": 9.1,
+      "value": 9.0,
       "category": [
         "Acción", "Ciencia Ficción", "Shounen"
       ],
@@ -1577,7 +1577,7 @@ const db =[
       "id": 143,
       "name": "Seihantai na Kimi to Boku",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4318.jpg",
-      "value": 9.4,
+      "value": 9.5,
       "category": [
          "Romance","Escolares","Comedia"
       ],
@@ -1599,11 +1599,22 @@ const db =[
       "id": 145,
       "name": "Yomi no Tsugai",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4351.jpg",
-      "value": 9.4,
+      "value": 9.0,
       "category": [
          "Acción","Fantasía","Shounen","Aventuras"
       ],
       "description": "En un pueblo aislado, nacen dos gemelos, separados por el día y la noche. Años después, mientras el hermano mayor, Yuru, se ha convertido en un cazador de animales, su hermana Asa ha sido encerrada en una jaula, obligada a cumplir un deber especial que le prohíbe interactuar con más que unos pocos individuos seleccionados. En un día que, de otro modo, sería inconspicuo, un grupo de hombres armados que llegan en helicópteros, conocidos como dragones por los ciudadanos, asalta el pueblo en busca de Yuru, matando a todos los adultos a la vista. Cuando Yuru intenta reunirse con Asa y huir, en su lugar encuentra un cadáver; además, la persona que la mató afirma ser la verdadera hermana gemela de Yuru. Antes de que la mujer pueda capturarlo, Yuru es rescatado por un hombre llamado Dera, un forastero que visita el pueblo con frecuencia. Sin embargo, no pasa mucho tiempo antes de que ambos queden acorralados. En un último esfuerzo, Dera hace que Yuru ofrezca un regalo a la deidad del pueblo, invocando un par de demonios cuya existencia está destinada a revelar la verdad detrás de estos caóticos eventos.",
+      "status": "Activo"
+    },
+     {
+      "id": 146,
+      "name": "Yomi no Tsugai",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/2646.jpg",
+      "value": 9.0,
+      "category": [
+        "Magia", "Militar","Seinen"
+      ],
+      "description": "La serie gira en torno a una joven chica que lucha en los frentes de una guerra. Tiene el pelo rubio, ojos azules y una piel blanca, casi transparente, y es conocida por moverse como el viento en el campo de batalla. Ella es Tanya Degurechov y se encarga de dirigir al ejército. Solía ser una de las oficiales de élite en Japón, pero debido a la ira de un dios, renació como una niña pequeña. Tanya lo da todo por avanzar en su carrera militar y se convertirá en la hechicera más poderosa del ejército imperial.",
       "status": "Activo"
     }
    
