@@ -1608,7 +1608,7 @@ const db =[
     },
      {
       "id": 146,
-      "name": "Yomi no Tsugai",
+      "name": "Youjo Senki",
       "image": "https://www3.animeflv.net/uploads/animes/covers/2646.jpg",
       "value": 9.0,
       "category": [
