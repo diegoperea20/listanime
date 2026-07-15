@@ -1588,7 +1588,7 @@ const db =[
       "id": 144,
       "name": "Tongari Boushi no Atelier",
       "image": "https://www3.animeflv.net/uploads/animes/covers/4361.jpg",
-      "value": 9.7,
+      "value": 10,
       "category": [
          "Acción","Fantasía","Shounen","Seinen"
       ],
