@@ -1593,7 +1593,7 @@ const db =[
          "Acción","Fantasía","Shounen","Seinen"
       ],
       "description": "Coco, la humilde hija de una modista, siempre ha estado fascinada por la magia y las brujas que la practican, a pesar de las estrictas precauciones que toman para ocultar sus métodos al público. Sin embargo, cuando Coco aprovecha una oportunidad dorada para espiar a la hábil bruja Qifrey, se da cuenta de que su libro de imágenes favorito siempre ha sido en realidad un libro de magia disfrazado. ¡Emocionada, comienza a probar los diversos hechizos de inmediato! Cuando un hechizo provoca un desastre en su hogar, Qifrey la rescata justo a tiempo y decide entrenarla, dándose cuenta de que es la primera pista que ha encontrado que podría ayudarlo a rastrear a los Brimmed Caps, un grupo peligroso de herejes que experimentan con magia prohibida que altera el cuerpo y difunden artefactos mágicos entre los comunes. Pero antes de que Coco y Qifrey puedan confrontar a los Brimmed Caps, ella deberá mejorar sus habilidades mágicas y aprender a llevarse bien con los otros aprendices de Qifrey.",
-      "status": "Activo"
+      "status": "Finalizado"
     },
      {
       "id": 145,
@@ -1616,6 +1616,17 @@ const db =[
       ],
       "description": "La serie gira en torno a una joven chica que lucha en los frentes de una guerra. Tiene el pelo rubio, ojos azules y una piel blanca, casi transparente, y es conocida por moverse como el viento en el campo de batalla. Ella es Tanya Degurechov y se encarga de dirigir al ejército. Solía ser una de las oficiales de élite en Japón, pero debido a la ira de un dios, renació como una niña pequeña. Tanya lo da todo por avanzar en su carrera militar y se convertirá en la hechicera más poderosa del ejército imperial.",
       "status": "Activo"
+    },
+    {
+      "id": 147,
+      "name": "Mob Psycho 100",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/2520.jpg",
+      "value": 10,
+      "category": [
+        "Acción","Shounen","Comedia","Sobrenatural" ,"Superpoderes"
+      ],
+      "description": "Cuenta la historia de Mob, un chico con poderes psíquicos que explota si su capacidad emocional alcanza el 100%. Recibió el apodo de Mob porque no destaca entre la gente, y trata de reprimir sus poderes para poder llevar una vida normal.",
+      "status": "Finalizado"
     }
    
 
