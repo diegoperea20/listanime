@@ -1627,6 +1627,17 @@ const db =[
       ],
       "description": "Cuenta la historia de Mob, un chico con poderes psíquicos que explota si su capacidad emocional alcanza el 100%. Recibió el apodo de Mob porque no destaca entre la gente, y trata de reprimir sus poderes para poder llevar una vida normal.",
       "status": "Finalizado"
+    },
+     {
+      "id": 148,
+      "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+      "image": "https://cdn.myanimelist.net/images/anime/1690/155778l.jpg",
+      "value": 8.8,
+      "category": [
+            "Acción","Fantasía","Aventuras"
+      ],
+      "description": "Cuenta la historia de Mob, un chico con poderes psíquicos que explota si su capacidad emocional alcanza el 100%. Recibió el apodo de Mob porque no destaca entre la gente, y trata de reprimir sus poderes para poder llevar una vida normal.",
+      "status": "Activo"
     }
    
 
