@@ -13,6 +13,10 @@ const nextConfig = {
         },
         {
           protocol: 'https',
+          hostname: 'myanimelist.net',
+        },
+        {
+          protocol: 'https',
           hostname: 'upload.wikimedia.org',
         },
       ],
