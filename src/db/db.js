@@ -1499,7 +1499,7 @@ const db =[
     {
       "id": 136,
       "name": "Takopii no Genzai",
-      "image": "/animeNoAVAILABLE.png",
+      "image": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
       "value": 9.8,
       "category": [
         "Seinen", "Ciencia Ficción", "Drama"
@@ -1510,7 +1510,7 @@ const db =[
     {
       "id": 137,
       "name": "To Be Hero X",
-      "image": "/animeNoAVAILABLE.png",
+      "image": "https://cdn.myanimelist.net/images/anime/1232/148474l.jpg",
       "value": 10,
       "category": [
         "Shounen","Acción","Superpoderes","Fantasía"
@@ -1521,7 +1521,7 @@ const db =[
     {
       "id": 138,
       "name": "Pluto Netflix",
-      "image": "/animeNoAVAILABLE.png",
+      "image": "https://cdn.myanimelist.net/images/anime/1046/91058l.jpg",
       "value": 10,
       "category": [
         "Seinen", "Ciencia Ficción", "Drama" ,"Shounen","Acción", "Misterio"
@@ -1543,7 +1543,7 @@ const db =[
      {
       "id": 140,
       "name": "The Fragrant Flower Blooms With Dignity",
-      "image": "/animeNoAVAILABLE.png",
+      "image": "https://cdn.myanimelist.net/images/anime/1744/150433l.jpg",
       "value": 8.9,
       "category": [
         "Romance","Drama","Escolares"
@@ -1609,7 +1609,7 @@ const db =[
      {
       "id": 146,
       "name": "Youjo Senki",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2646.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/82890l.jpg",
       "value": 9.0,
       "category": [
         "Magia", "Militar","Seinen"
@@ -1620,7 +1620,7 @@ const db =[
     {
       "id": 147,
       "name": "Mob Psycho 100",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2520.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
       "value": 10,
       "category": [
         "Acción","Shounen","Comedia","Sobrenatural" ,"Superpoderes"
@@ -1636,7 +1636,7 @@ const db =[
       "category": [
             "Acción","Fantasía","Aventuras"
       ],
-      "description": "Cuenta la historia de Mob, un chico con poderes psíquicos que explota si su capacidad emocional alcanza el 100%. Recibió el apodo de Mob porque no destaca entre la gente, y trata de reprimir sus poderes para poder llevar una vida normal.",
+      "description": "¡Hijo inútil! Se suponía que debías convertirte en un maestro espadachín, ¡pero nunca pensé que sería tan trágico! El día que un niño cumple quince años, se somete al Ritual de la Bendición Divina. Ya descendiente de una línea de maestros espadachines, Elymas debía suceder a su padre. Sin embargo, le toca la clase defectuosa, el Caballero Pesado, y no solo pierde su estatus como futuro jefe del hogar, sino que también es exiliado. Con sus estadísticas desbalanceadas y habilidades aparentemente inútiles, los Caballeros Pesados son considerados una clase para cobardes y perezosos. Sin embargo, Elymas conoce la verdad. El mundo en el que vive es el mismo que el del juego que solía jugar... Y es el Caballero Pesado el que es la clase más poderosa de todas. Usando recuerdos de su vida pasada, Elymas ha decidido conquistar este mundo por completo.",
       "status": "Activo"
     }
    
