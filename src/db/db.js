@@ -504,7 +504,7 @@ const db =[
     {
       "id": 46,
       "name": "Hataraku Saibou (TV)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2981.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1624/106600l.jpg",
       "value": 9.4,
       "category": [
         "Comedia", "Shounen"
@@ -823,7 +823,7 @@ const db =[
     {
       "id": 75,
       "name": "Moyashimon",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2018.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/37533l.jpg",
       "value": 7.9,
       "category": [
         "Comedia", "Escolares", "Sobrenatural"
@@ -834,7 +834,7 @@ const db =[
     {
       "id": 76,
       "name": "The Melancholy of Haruhi Suzumiya (2009)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/516.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/4/25991l.jpg",
       "value": 7.7,
       "category": [
         "Ciencia Ficción", "Comedia", "Escolares", "Misterio", "Parodia", "Recuentos de la vida", "Romance"
@@ -878,7 +878,7 @@ const db =[
     {
       "id": 80,
       "name": "Boogiepop wa Warawanai (2019)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3069.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1135/95454l.jpg",
       "value": 8.1,
       "category": [
         "Misterio", "Psicológico", "Terror"
@@ -949,7 +949,7 @@ const db =[
     {
       "id": 86,
       "name": "Toaru Kagaku no Railgun",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/339.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/13/17275l.jpg",
       "value": 9.1,
       "category": [
         "Acción", "Ciencia Ficción", "Superpoderes"
@@ -960,7 +960,7 @@ const db =[
     {
       "id": 87,
       "name": "Dance in the Vampire Bund",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/286.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/21943l.jpg",
       "value": 7.7,
       "category": [
         "Acción", "Sobrenatural", "Vampiros"
@@ -1048,7 +1048,7 @@ const db =[
     {
       "id": 95,
       "name": "Kokkoku",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2873.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/89987l.jpg",
       "value": 8,
       "category": [
         "Drama", "Misterio", "Psicológico", "Seinen"
@@ -1169,7 +1169,7 @@ const db =[
     {
       "id": 106,
       "name": "High Card",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3751.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1803/131345l.jpg",
       "value": 8.4,
       "category": [
         "Acción", "Superpoderes"
@@ -1637,6 +1637,17 @@ const db =[
             "Acción","Fantasía","Aventuras"
       ],
       "description": "¡Hijo inútil! Se suponía que debías convertirte en un maestro espadachín, ¡pero nunca pensé que sería tan trágico! El día que un niño cumple quince años, se somete al Ritual de la Bendición Divina. Ya descendiente de una línea de maestros espadachines, Elymas debía suceder a su padre. Sin embargo, le toca la clase defectuosa, el Caballero Pesado, y no solo pierde su estatus como futuro jefe del hogar, sino que también es exiliado. Con sus estadísticas desbalanceadas y habilidades aparentemente inútiles, los Caballeros Pesados son considerados una clase para cobardes y perezosos. Sin embargo, Elymas conoce la verdad. El mundo en el que vive es el mismo que el del juego que solía jugar... Y es el Caballero Pesado el que es la clase más poderosa de todas. Usando recuerdos de su vida pasada, Elymas ha decidido conquistar este mundo por completo.",
+      "status": "Activo"
+    },
+    {
+      "id": 149,
+      "name": "Koukaku Kidoutai (TV) The Ghost in the shell",
+      "image": "https://cdn.myanimelist.net/images/anime/1474/158937l.jpg",
+      "value": 8.9,
+      "category": [
+            "Acción","Seinen", "Ciencia Ficción", "Misterio", "Policía", "Psicológico", "Suspenso"
+      ],
+      "description": "En el año 2029, la ciudad de Niihama se ha convertido en una metrópolis tecnológicamente avanzada. Debido a grandes mejoras en cibernética, sus ciudadanos pueden reemplazar sus extremidades por partes robóticas. El mundo está ahora más interconectado que nunca, y la Sección de Seguridad Pública 9 de la ciudad es responsable de combatir la corrupción, el terrorismo y otras amenazas peligrosas tras este cambio hacia la globalización. La decidida Mayor Motoko Kusanagi de la Sección 9 lidera un caso que involucra a un misterioso hacker conocido únicamente como el Maestro de Marionetas, que deja tras de sí un rastro de víctimas despojadas de sus recuerdos. Al igual que muchos en este mundo futurista, el cuerpo del Maestro de Marionetas es casi totalmente robótico, dándole un poder increíble. Mientras Motoko y sus subordinados siguen el rastro del enigmático criminal, otras partes, incluida la Sección 6, comienzan a involucrarse, lo que obliga a Motoko a confrontar la naturaleza extremadamente complicada del caso. Reflexionando sobre diversas preguntas filosóficas, como el significado de su propia vida, Motoko pronto se da cuenta de que quien proporcionará estas respuestas no es otro que el Maestro de Marionetas en sí.",
       "status": "Activo"
     }
    
