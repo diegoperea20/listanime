@@ -449,7 +449,7 @@ const db =[
     {
       "id": 41,
       "name": "Ansatsu Kyoushitsu (TV)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1792.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg",
       "value": 9.1,
       "category": [
         "Acción", "Comedia", "Escolares", "Shounen"
@@ -460,7 +460,7 @@ const db =[
     {
       "id": 42,
       "name": "Danshi Koukousei no Nichijou",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/731.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg",
       "value": 9.4,
       "category": [
         "Comedia", "Escolares", "Recuentos de la vida", "Shounen"
@@ -471,7 +471,7 @@ const db =[
     {
       "id": 43,
       "name": "Chuunibyou demo Koi ga Shitai!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/860.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/43003l.jpg",
       "value": 8.7,
       "category": [
         "Comedia", "Drama", "Escolares", "Recuentos de la vida", "Romance"
@@ -482,7 +482,7 @@ const db =[
     {
       "id": 44,
       "name": "Shokugeki no Souma",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1892.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1444/148976l.jpg",
       "value": 8,
       "category": [
         "Ecchi", "Escolares", "Shounen"
@@ -493,7 +493,7 @@ const db =[
     {
       "id": 45,
       "name": "Kokoro Connect",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/805.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/2/39665l.jpg",
       "value": 9,
       "category": [
         "Comedia", "Drama", "Escolares", "Recuentos de la vida", "Romance", "Sobrenatural"
@@ -515,7 +515,7 @@ const db =[
     {
       "id": 47,
       "name": "Golden Time",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1139.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/12/52091l.jpg",
       "value": 8.9,
       "category": [
         "Comedia", "Romance", "Seinen"
@@ -526,7 +526,7 @@ const db =[
     {
       "id": 48,
       "name": "Hyouka",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/794.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/4/39025l.jpg",
       "value": 9,
       "category": [
         "Escolares", "Misterio", "Recuentos de la vida"
@@ -537,7 +537,7 @@ const db =[
     {
       "id": 49,
       "name": "Tonari no Seki-kun",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1212.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/58081l.jpg",
       "value": 8.4,
       "category": [
         "Comedia", "Escolares", "Seinen"
@@ -548,7 +548,7 @@ const db =[
     {
       "id": 50,
       "name": "Rokudenashi Majutsu Koushi to Akashic Records",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2699.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/85593l.jpg",
       "value": 8,
       "category": [
         "Acción", "Fantasía", "Magia"
@@ -559,7 +559,7 @@ const db =[
     {
       "id": 51,
       "name": "Kono Subarashii Sekai ni Shukufuku wo!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2381.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/77831l.jpg",
       "value": 9.2,
       "category": [
         "Aventuras", "Comedia", "Fantasía", "Sobrenatural"
@@ -570,7 +570,7 @@ const db =[
     {
       "id": 52,
       "name": "Shigatsu wa Kimi no Uso",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1639.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/69957l.jpg",
       "value": 9.8,
       "category": [
         "Drama", "Escolares", "Música", "Romance", "Shounen"
@@ -581,7 +581,7 @@ const db =[
     {
       "id": 53,
       "name": "Zero no Tsukaima",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/183.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/20680l.jpg",
       "value": 8,
       "category": [
         "Acción", "Aventuras", "Comedia", "Escolares", "Fantasía", "Harem", "Magia", "Romance","Ecchi"
@@ -592,7 +592,7 @@ const db =[
     {
       "id": 54,
       "name": "Haikyuu!!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1280.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
       "value": 8.4,
       "category": [
         "Comedia", "Deportes", "Drama", "Escolares", "Shounen"
@@ -603,7 +603,7 @@ const db =[
     {
       "id": 55,
       "name": "Sakamoto desu ga?",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2451.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/4/79468l.jpg",
       "value": 8.9,
       "category": [
         "Comedia", "Escolares", "Seinen"
@@ -614,7 +614,7 @@ const db =[
     {
       "id": 56,
       "name": "ToraDora!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/13.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg",
       "value": 9.2,
       "category": [
         "Comedia", "Escolares", "Recuentos de la vida", "Romance"
@@ -625,7 +625,7 @@ const db =[
     {
       "id": 57,
       "name": "Watamote!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1032.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/12/51619l.jpg",
       "value": 8.3,
       "category": [
         "Comedia", "Escolares", "Recuentos de la vida", "Shounen"
@@ -636,7 +636,7 @@ const db =[
     {
       "id": 58,
       "name": "Another",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/727.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg",
       "value": 7.8,
       "category": [
         "Escolares", "Misterio", "Sobrenatural", "Suspenso", "Terror"
@@ -647,7 +647,7 @@ const db =[
     {
       "id": 59,
       "name": "Kiznaiver",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2454.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1085/147246l.jpg",
       "value": 9.7,
       "category": [
         "Ciencia Ficción", "Drama"
@@ -658,7 +658,7 @@ const db =[
     {
       "id": 60,
       "name": "Karakai Jouzu no Takagi-san",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2876.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg",
       "value": 9,
       "category": [
         "Comedia", "Escolares", "Recuentos de la vida", "Romance", "Shounen"
