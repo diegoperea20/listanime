@@ -224,7 +224,7 @@ const db =[
       
       "id": 21,
       "name": "Bungou Stray Dogs",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2446.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/3/79409l.jpg",
       "value": 8.8,
       "category": [
         "Acción", "Comedia", "Misterio", "Seinen", "Sobrenatural"
@@ -235,7 +235,7 @@ const db =[
     {
       "id": 22,
       "name": "Inuyasha",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/53.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1/249l.jpg",
       "value": 8,
       "category": [
         "Acción", "Aventuras", "Comedia", "Demonios", "Fantasía", "Magia", "Romance", "Shounen", "Sobrenatural"
@@ -246,7 +246,7 @@ const db =[
     {
       "id": 23,
       "name": "Gakusen Toshi Asterisk",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2230.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/12/74447l.jpg",
       "value": 9.5,
       "category": [
         "Acción", "Ciencia Ficción", "Comedia", "Ecchi", "Escolares", "Fantasía", "Harem", "Romance", "Sobrenatural"
@@ -257,7 +257,7 @@ const db =[
     {
       "id": 24,
       "name": "Soul Eater",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/123.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1071/149486l.jpg",
       "value": 8.3,
       "category": [
         "Acción", "Aventuras", "Comedia", "Fantasía", "Shounen", "Sobrenatural"
@@ -284,7 +284,7 @@ const db =[
     {
       "id": 26,
       "name": "Toaru Majutsu no Index",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/175.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/2/75533l.jpg",
       "value": 8.7,
       "category": [
         "Acción", "Ciencia Ficción", "Magia", "Superpoderes"
@@ -295,7 +295,7 @@ const db =[
     {
       "id": 27,
       "name": "Hunter x Hunter (2011)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/640.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1805/145291l.jpg",
       "value": 8.8,
       "category": [
         "Acción", "Aventuras", "Shounen", "Superpoderes"
@@ -306,7 +306,7 @@ const db =[
     {
       "id": 28,
       "name": "One Punch Man",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2218.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
       "value": 9.6,
       "category": [
         "Acción", "Ciencia Ficción", "Comedia", "Parodia", "Seinen", "Sobrenatural", "Superpoderes"
@@ -317,7 +317,7 @@ const db =[
     {
       "id": 29,
       "name": "Charlotte",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2091.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/72941l.jpg",
       "value": 9.7,
       "category": [
         "Drama", "Escolares", "Superpoderes"
@@ -328,7 +328,7 @@ const db =[
     {
       "id": 30,
       "name": "Code Geass",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/29.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
       "value": 9.3,
       "category": [
         "Acción", "Ciencia Ficción", "Escolares", "Mecha", "Militar", "Superpoderes"
@@ -339,7 +339,7 @@ const db =[
     {
       "id": 31,
       "name": "Neon Genesis Evangelion",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/460.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
       "value": 9,
       "category": [
         "Acción", "Ciencia Ficción", "Demencia", "Drama", "Mecha", "Psicológico"
@@ -350,7 +350,7 @@ const db =[
     {
       "id": 32,
       "name": "Pokemon",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/944.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1787/140239l.jpg",
       "value": 8.8,
       "category": [
         "Acción", "Aventuras", "Comedia", "Fantasía", "Infantil"
@@ -361,7 +361,7 @@ const db =[
     {
       "id": 33,
       "name": "Fullmetal Alchemist",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/40.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/2/20453l.jpg",
       "value": 8.4,
       "category": [
         "Acción", "Aventuras", "Comedia", "Drama", "Fantasía", "Magia", "Militar", "Shounen"
@@ -372,7 +372,7 @@ const db =[
     {
       "id": 34,
       "name": "Yu-Gi-Oh! Duel Monsters",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/258.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/9/10397l.jpg",
       "value": 8,
       "category": [
         "Aventuras", "Juegos", "Shounen"
@@ -383,7 +383,7 @@ const db =[
     {
       "id": 35,
       "name": "Captain Tsubasa (Super Campeones)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/281.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1396/94784l.jpg",
       "value": 8,
       "category": [
         "Acción", "Deportes", "Shounen"
@@ -394,7 +394,7 @@ const db =[
     {
       "id": 36,
       "name": "Saint Seiya",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/326.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg",
       "value": 8.4,
       "category": [
         "Aventuras", "Ciencia Ficción", "Fantasía", "Shounen"
@@ -405,7 +405,7 @@ const db =[
     {
       "id": 37,
       "name": "Fairy Tail (2014)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1290.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
       "value": 8.3,
       "category": [
         "Acción", "Aventuras", "Comedia", "Fantasía", "Magia", "Shounen"
@@ -416,7 +416,7 @@ const db =[
     {
       "id": 38,
       "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3023.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg",
       "value": 8.3,
       "category": [
         "Comedia", "Escolares", "Romance"
@@ -427,7 +427,7 @@ const db =[
     {
       "id": 39,
       "name": "Made in Abyss",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2767.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1922/91900l.jpg",
       "value": 8.7,
       "category": [
         "Aventuras", "Ciencia Ficción", "Drama", "Fantasía"
@@ -438,7 +438,7 @@ const db =[
     {
       "id": 40,
       "name": "Noragami",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1213.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
       "value": 9,
       "category": [
         "Acción", "Aventuras", "Shounen", "Sobrenatural"
