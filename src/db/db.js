@@ -1554,7 +1554,7 @@ const db =[
       {
       "id": 141,
       "name": "Darwin Jihen",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4296.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1341/152829l.jpg",
       "value": 9.7,
       "category": [
          "Seinen", "Ciencia Ficción"
@@ -1565,7 +1565,7 @@ const db =[
      {
       "id": 142,
       "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4282.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1062/151911l.jpg",
       "value": 8.8,
       "category": [
         "Acción","Fantasía","Shounen"
@@ -1576,8 +1576,8 @@ const db =[
      {
       "id": 143,
       "name": "Seihantai na Kimi to Boku",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4318.jpg",
-      "value": 9.5,
+      "image": "https://cdn.myanimelist.net/images/anime/1140/154457l.jpg",
+      "value": 9.8,
       "category": [
          "Romance","Escolares","Comedia"
       ],
@@ -1587,7 +1587,7 @@ const db =[
      {
       "id": 144,
       "name": "Tongari Boushi no Atelier",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4361.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1892/152471l.jpg",
       "value": 10,
       "category": [
          "Acción","Fantasía","Shounen","Seinen"
@@ -1598,7 +1598,7 @@ const db =[
      {
       "id": 145,
       "name": "Yomi no Tsugai",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4351.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1961/150909l.jpg",
       "value": 9.0,
       "category": [
          "Acción","Fantasía","Shounen","Aventuras"
