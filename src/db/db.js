@@ -889,7 +889,7 @@ const db =[
     {
       "id": 81,
       "name": "Enen no Shouboutai",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3155.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1934/101890l.jpg",
       "value": 9,
       "category": [
         "Acción", "Shounen", "Sobrenatural"
@@ -900,7 +900,7 @@ const db =[
     {
       "id": 82,
       "name": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/393.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1875/105235l.jpg",
       "value": 9.3,
       "category": [
         "Drama", "Recuentos de la vida", "Sobrenatural"
@@ -911,7 +911,7 @@ const db =[
     {
       "id": 83,
       "name": "Bakugan Battle Brawlers",
-      "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Bakugan_DVD_Volume_13_%28Japanese%29.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/7/21568l.jpg",
       "value": 8.3,
       "category": [
         "Aventuras", "Shounen" ,"Infantil", "Superpoderes","Juegos"
@@ -922,7 +922,7 @@ const db =[
     {
       "id": 84,
       "name": "Basquash!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/262.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/9/13680l.jpg",
       "value": 8,
       "category": [
         "Deportes", "Ecchi", "Mecha", "Shounen"
@@ -971,7 +971,7 @@ const db =[
     {
       "id": 88,
       "name": "Nichijou",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/364.jpg",
+      "image": "https://cdn.myanimelist.net/images/manga/2/43199l.jpg",
       "value": 8.1,
       "category": [
         "Comedia", "Escolares", "Recuentos de la vida"
@@ -982,7 +982,7 @@ const db =[
     {
       "id": 89,
       "name": "Mahouka Koukou no Rettousei",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1308.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/11/61039l.jpg",
       "value": 8.2,
       "category": [
         "Ciencia Ficción", "Escolares", "Magia", "Romance", "Sobrenatural"
@@ -993,7 +993,7 @@ const db =[
     {
       "id": 90,
       "name": "Owarimonogatari",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2232.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
       "value": 7.7,
       "category": [
         "Comedia", "Misterio", "Sobrenatural"
@@ -1004,7 +1004,7 @@ const db =[
     {
       "id": 91,
       "name": "Bloodivores",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2548.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/11/82233l.jpg",
       "value": 7.8,
       "category": [
         "Acción", "Sobrenatural", "Vampiros"
@@ -1015,7 +1015,7 @@ const db =[
     {
       "id": 92,
       "name": "Kakegurui",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2746.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg",
       "value": 9,
       "category": [
         "Drama", "Escolares", "Misterio", "Psicológico", "Shounen"
@@ -1026,7 +1026,7 @@ const db =[
     {
       "id": 93,
       "name": "Tsurezure Children",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2762.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1585/101820l.jpg",
       "value": 9.1,
       "category": [
         "Comedia", "Escolares", "Romance", "Shounen"
@@ -1037,7 +1037,7 @@ const db =[
     {
       "id": 94,
       "name": "Violet Evergarden",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2884.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg",
       "value": 7.8,
       "category": [
         "Drama", "Fantasía"
@@ -1059,7 +1059,7 @@ const db =[
     {
       "id": 96,
       "name": "Poputepipikku",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2867.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1734/90267l.jpg",
       "value": 8,
       "category": [
         "Comedia"
@@ -1070,7 +1070,7 @@ const db =[
     {
       "id": 97,
       "name": "Domestic na Kanojo",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3091.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1021/95670l.jpg",
       "value": 8.4,
       "category": [
         "Drama", "Escolares", "Romance", "Shounen"
@@ -1081,7 +1081,7 @@ const db =[
     {
       "id": 98,
       "name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3248.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg",
       "value": 8.7,
       "category": [
         "Acción", "Aventuras", "Ciencia Ficción", "Comedia", "Fantasía"
@@ -1092,7 +1092,7 @@ const db =[
     {
       "id": 99,
       "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3411.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1236/103585l.jpg",
       "value": 9.1,
       "category": [
         "Drama", "Fantasía", "Magia","Shounen"
@@ -1103,7 +1103,7 @@ const db =[
     {
       "id": 100,
       "name": "Platinum End",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3538.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1700/111796l.jpg",
       "value": 10,
       "category": [
         "Drama", "Psicológico", "Sobrenatural","Shounen"
@@ -1114,7 +1114,7 @@ const db =[
     {
       "id": 101,
       "name": "Chainsaw Man",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3707.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1803/132254l.jpg",
       "value": 9,
       "category": [
         "Acción", "Sobrenatural","Shounen"
