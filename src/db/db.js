@@ -2,7 +2,7 @@ const db =[
     {
       "id": 1,
       "name": "Bleach",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/3/20349l.jpg",
       "value": 10,
       "category": [
         "Acción","Comedia", "Shounen","Sobrenatural" ,"Superpoderes"
@@ -13,7 +13,7 @@ const db =[
     {
       "id": 2,
       "name": "Naruto",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/13/17405l.jpg",
       "value": 10,
       "category": [
         "Acción", "Artes Marciales", "Comedia", "Shounen", "Superpoderes"
@@ -25,7 +25,7 @@ const db =[
     {
       "id": 3,
       "name": "Naruto Shippuden",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/3/79849l.jpg",
       "value": 10,
       "category": [
         "Acción", "Artes Marciales", "Comedia", "Shounen", "Superpoderes"
@@ -36,7 +36,7 @@ const db =[
     {
       "id": 4,
       "name": "Kimetsu no Yaiba",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3118.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
       "value": 10,
       "category": [
         "Acción", "Demonios", "Histórico", "Shounen", "Sobrenatural"
@@ -47,7 +47,7 @@ const db =[
     {
       "id": 5,
       "name": "Dragon Ball Z",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/37.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/10/80325l.jpg",
       "value": 10,
       "category": [
         "Acción", "Artes Marciales", "Aventuras", "Comedia", "Fantasía", "Shounen", "Superpoderes"
@@ -58,7 +58,7 @@ const db =[
     {
       "id": 6,
       "name": "Death Note",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/10.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
       "value": 10,
       "category": [
         "Misterio", "Policía", "Psicológico", "Sobrenatural", "Suspenso"
@@ -69,7 +69,7 @@ const db =[
     {
       "id": 7,
       "name": "Boku no Hero Academia",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2430.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
       "value": 10,
       "category": [
         "Acción", "Comedia", "Escolares", "Shounen", "Superpoderes"
@@ -80,7 +80,7 @@ const db =[
     {
       "id": 8,
       "name": "Sousou no Frieren",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3859.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
       "value": 10,
       "category": [
         "Aventuras", "Drama", "Fantasía", "Shounen"
@@ -91,7 +91,7 @@ const db =[
     {
       "id": 9,
       "name": "Boruto: Naruto Next Generations",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2702.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/9/84460l.jpg",
       "value": 9,
       "category": [
         "Acción", "Artes Marciales", "Aventuras", "Shounen", "Superpoderes"
@@ -102,7 +102,7 @@ const db =[
     {
       "id": 10,
       "name": "Dr. Stone",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3153.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1758/97736l.jpg",
       "value": 10,
       "category": [
         "Aventuras", "Ciencia Ficción", "Shounen"
@@ -113,7 +113,7 @@ const db =[
     {
       "id": 11,
       "name": "Steins;Gate",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/363.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/10/32023l.jpg",
       "value": 10,
       "category": [
         "Ciencia Ficción", "Suspenso"
@@ -124,7 +124,7 @@ const db =[
     {
       "id": 12,
       "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2782.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/7/86829l.jpg",
       "value": 10,
       "category": [
         "Drama", "Escolares", "Psicológico", "Suspenso"
@@ -135,7 +135,7 @@ const db =[
     {
       "id": 13,
       "name": "Sword Art Online",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/825.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/36343l.jpg",
       "value": 10,
       "category": [
         "Acción", "Aventuras", "Fantasía", "Juegos", "Romance"
@@ -146,7 +146,7 @@ const db =[
     {
       "id": 14,
       "name": "Spy x Family",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3618.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg",
       "value": 10,
       "category": [
         "Acción", "Comedia", "Shounen"
@@ -157,7 +157,7 @@ const db =[
     {
       "id": 15,
       "name": "Jujutsu Kaisen (TV)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3344.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
       "value": 10,
       "category": [
         "Acción", "Demonios", "Escolares", "Shounen", "Sobrenatural", "Terror"
@@ -168,7 +168,7 @@ const db =[
     {
       "id": 16,
       "name": "Black Clover (TV)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2806.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg",
       "value": 9.3,
       "category": [
         "Acción", "Comedia", "Fantasía", "Magia", "Shounen"
@@ -179,7 +179,7 @@ const db =[
     {
       "id": 17,
       "name": "Psycho-Pass",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/882.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/9/74097l.jpg",
       "value": 10,
       "category": [
         "Acción", "Ciencia Ficción", "Policía", "Psicológico"
@@ -190,7 +190,7 @@ const db =[
     {
       "id": 18,
       "name": "Shingeki no Kyojin",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/999.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1907/134102l.jpg",
       "value": 10,
       "category": [
         "Acción", "Drama", "Fantasía", "Shounen", "Superpoderes"
@@ -201,7 +201,7 @@ const db =[
     {
       "id": 19,
       "name": "Kuroko no Basuke",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/777.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/11/50453l.jpg",
       "value": 10,
       "category": [
         "Comedia", "Deportes", "Escolares", "Shounen"
@@ -212,7 +212,7 @@ const db =[
     {
       "id": 20,
       "name": "Asobi Asobase",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2983.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1139/95077l.jpg",
       "value": 10,
       "category": [
         "Comedia", "Drama", "Escolares"
