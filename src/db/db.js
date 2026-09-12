@@ -1334,7 +1334,7 @@ const db =[
     {
       "id": 121,
       "name": "Dandadan",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4056.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1541/142082l.jpg",
       "value": 10,
       "category": [
         "Comedia", "Shounen" ,"Sobrenatural","Acción"
@@ -1345,7 +1345,7 @@ const db =[
     {
       "id": 122,
       "name": "Mecha-ude (TV)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4058.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1997/145126l.jpg",
       "value": 8.4,
       "category": [
         "Comedia", "Shounen" ,"Ciencia Ficción","Acción"
@@ -1356,7 +1356,7 @@ const db =[
      {
       "id": 123,
       "name": "Parasyte : The Maxim",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1635.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/5/73085l.jpg",
       "value": 8.9,
       "category": [
         "Shounen" ,"Ciencia Ficción","Acción","Seinen","Terror","Psicológico"
@@ -1367,7 +1367,7 @@ const db =[
     {
       "id": 124,
       "name": "Solo Leveling",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3928.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1801/142390l.jpg",
       "value": 9,
       "category": [
         "Shounen","Acción","Aventuras","Fantasía"
@@ -1378,7 +1378,7 @@ const db =[
      {
       "id": 125,
       "name": "Sakamoto Days",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4125.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1733/147417l.jpg",
       "value": 9,
       "category": [
         "Shounen","Acción","Comedia"
@@ -1389,7 +1389,7 @@ const db =[
      {
       "id": 126,
       "name": "Make Heroine ga Oosugiru!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4038.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1332/143513l.jpg",
       "value": 9.2,
       "category": [
         "Shounen","Comedia","Escolares","Romance"
@@ -1400,7 +1400,7 @@ const db =[
     {
       "id": 127,
       "name": "Lazarus",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4158.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1015/148185l.jpg",
       "value": 9,
       "category": [
         "Shounen","Ciencia Ficción","Acción","Seinen"
@@ -1411,7 +1411,7 @@ const db =[
      {
       "id": 128,
       "name": "Your Forma",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4139.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1277/146980l.jpg",
       "value": 8,
       "category": [
         "Ciencia Ficción","Acción","Seinen","Misterio"
@@ -1422,7 +1422,7 @@ const db =[
     {
       "id": 129,
       "name": "Witch Watch",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4153.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1988/148017l.jpg",
       "value": 9.2,
       "category": [
         "Shounen","Comedia","Sobrenatural"
@@ -1433,7 +1433,7 @@ const db =[
     {
       "id": 130,
       "name": "Vigilante: Boku no Hero Academia Illegals",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4163.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1538/148604l.jpg",
       "value": 9.5,
       "category": [
         "Shounen","Acción","Superpoderes"
@@ -1444,7 +1444,7 @@ const db =[
     {
       "id": 131,
       "name": "Kowloon Generic Romance",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4150.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1093/146991l.jpg",
       "value": 9,
       "category": [
         "Romance","Ciencia Ficción","Seinen"
@@ -1455,7 +1455,7 @@ const db =[
     {
       "id": 132,
       "name": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4142.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1138/148270l.jpg",
       "value": 8.3,
       "category": [
         "Romance","Comedia","Escolares"
@@ -1466,7 +1466,7 @@ const db =[
      {
       "id": 133,
       "name": "Nyaight of the Living Cat",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4207.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1411/150445l.jpg",
       "value": 8.7,
       "category": [
         "Shounen","Acción","Suspenso"
@@ -1477,7 +1477,7 @@ const db =[
     {
       "id": 134,
       "name": "Hikaru ga Shinda Natsu",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4200.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1104/148614l.jpg",
       "value": 7.8,
       "category": [
         "Misterio","Sobrenatural","Terror"
@@ -1488,7 +1488,7 @@ const db =[
      {
       "id": 135,
       "name": "Gachiakuta",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4209.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1682/150432l.jpg",
       "value": 9.5,
       "category": [
         "Shounen","Acción","Fantasía"
@@ -1532,7 +1532,7 @@ const db =[
     {
       "id": 139,
       "name": "Sanda",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4242.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1364/151767l.jpg",
       "value": 9,
       "category": [
         "Shounen","Acción", "Misterio","Escolares"
