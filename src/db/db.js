@@ -669,7 +669,7 @@ const db =[
     {
       "id": 61,
       "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1887.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1172/148981l.jpg",
       "value": 8.3,
       "category": [
         "Acción", "Aventuras", "Comedia", "Fantasía", "Romance","Ecchi"
@@ -680,7 +680,7 @@ const db =[
     {
       "id": 62,
       "name": "Tonari no Kaibutsu-kun",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/857.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/7/55305l.jpg",
       "value": 8.4,
       "category": [
         "Comedia", "Escolares", "Recuentos de la vida", "Romance", "Shoujo"
@@ -691,7 +691,7 @@ const db =[
     {
       "id": 63,
       "name": "Nanatsu no Taizai",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1620.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/8/65409l.jpg",
       "value": 9,
       "category": [
         "Acción", "Aventuras", "Ecchi", "Fantasía", "Shounen", "Sobrenatural"
@@ -702,7 +702,7 @@ const db =[
     {
       "id": 64,
       "name": "Aho Girl",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2759.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/7/86664l.jpg",
       "value": 8.2,
       "category": [
         "Comedia", "Escolares", "Romance"
@@ -713,7 +713,7 @@ const db =[
     {
       "id": 65,
       "name": "Digimon Frontier",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/948.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/3/31591l.jpg",
       "value": 9.6,
       "category": [
         "Acción", "Aventuras", "Comedia", "Drama", "Fantasía", "Shounen"
@@ -724,7 +724,7 @@ const db =[
     {
       "id": 66,
       "name": "Masamune-kun no Revenge",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2642.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/12/83709l.jpg",
       "value": 8.6,
       "category": [
         "Comedia", "Escolares", "Harem", "Romance", "Shounen"
@@ -735,7 +735,7 @@ const db =[
     {
       "id": 67,
       "name": "Himouto! Umaru-chan",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2111.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/12/75086l.jpg",
       "value": 9.4,
       "category": [
         "Comedia", "Escolares", "Recuentos de la vida", "Seinen"
@@ -746,7 +746,7 @@ const db =[
     {
       "id": 68,
       "name": "Gamers!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2787.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/4/86828l.jpg",
       "value": 8,
       "category": [
         "Comedia", "Escolares", "Romance"
@@ -757,7 +757,7 @@ const db =[
     {
       "id": 69,
       "name": "Saiki Kusuo no Psi Nan",
-      "image": "https://a.storyblok.com/f/178900/636x900/b8dee6d69b/3f37fe13630e6f82acaccbd96a3785c21500883733_full.jpg/m/636x900",
+      "image": "https://cdn.myanimelist.net/images/anime/1924/148246l.jpg",
       "value": 9.4,
       "category": [
         "Comedia", "Escolares", "Ciencia Ficción"
@@ -768,7 +768,7 @@ const db =[
     {
       "id": 70,
       "name": "Angel Beats",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/93.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/10/22062l.jpg",
       "value": 9.3,
       "category": [
         "Acción", "Comedia", "Drama", "Escolares", "Sobrenatural"
@@ -779,7 +779,7 @@ const db =[
     {
       "id": 71,
       "name": "Nisekoi",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/1237.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/9/58079l.jpg",
       "value": 9,
       "category": [
         "Comedia", "Escolares", "Harem", "Romance", "Shounen"
@@ -790,7 +790,7 @@ const db =[
     {
       "id": 72,
       "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/2433.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1269/151932l.jpg",
       "value": 9,
       "category": [
         "Drama", "Fantasía", "Psicológico", "Suspenso"
@@ -801,7 +801,7 @@ const db =[
     {
       "id": 73,
       "name": "School Days",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/181.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/6/20471l.jpg",
       "value": 9,
       "category": [
         "Drama", "Escolares", "Harem", "Romance"
@@ -812,7 +812,7 @@ const db =[
     {
       "id": 74,
       "name": "Yakusoku no Neverland",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3084.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
       "value": 9,
       "category": [
         "Ciencia Ficción", "Misterio", "Shounen", "Terror"
@@ -845,7 +845,7 @@ const db =[
     {
       "id": 77,
       "name": "Konjiki no Gash Bell!!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/141.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/11/78508l.jpg",
       "value": 8.3,
       "category": [
         "Aventuras", "Comedia", "Magia", "Shounen", "Sobrenatural"
@@ -856,7 +856,7 @@ const db =[
     {
       "id": 78,
       "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3096.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1436/109969l.jpg",
       "value": 10,
       "category": [
         "Comedia", "Escolares", "Psicológico", "Romance", "Seinen"
@@ -867,7 +867,7 @@ const db =[
     {
       "id": 79,
       "name": "Tate no Yuusha no Nariagari",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3074.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1068/97169l.jpg",
       "value": 8.4,
       "category": [
         "Acción", "Aventuras", "Comedia", "Drama", "Fantasía", "Romance", "Seinen"
