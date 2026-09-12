@@ -1125,7 +1125,7 @@ const db =[
     {
       "id": 102,
       "name": "NieR:Automata Ver1.1a",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3738.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1669/150616l.jpg",
       "value": 10,
       "category": [
         "Acción", "Ciencia Ficción", "Fantasía","Shounen"
@@ -1136,7 +1136,7 @@ const db =[
     {
       "id": 103,
       "name": "Edens Zero",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3464.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1011/111811l.jpg",
       "value": 8.4,
       "category": [
         "Acción", "Aventuras", "Ciencia Ficción", "Comedia", "Fantasía", "Shounen"
@@ -1147,7 +1147,7 @@ const db =[
     {
       "id": 104,
       "name": "Tengoku Daimakyou",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3766.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1121/133132l.jpg",
       "value": 9.6,
       "category": [
         "Aventuras", "Ciencia Ficción", "Seinen"
@@ -1158,7 +1158,7 @@ const db =[
     {
       "id": 105,
       "name": "Kubo-san wa Mob wo Yurusanai",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3758.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1737/123772l.jpg",
       "value": 9.2,
       "category": [
         "Comedia", "Romance"
@@ -1180,7 +1180,7 @@ const db =[
     {
       "id": 107,
       "name": "Mashle",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3790.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1218/135107l.jpg",
       "value": 9.0,
       "category": [
         "Acción", "Comedia", "Escolares", "Fantasía", "Parodia", "Shounen"
@@ -1191,7 +1191,7 @@ const db =[
     {
       "id": 108,
       "name": "Kono Subarashii Sekai ni Bakuen wo!",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3782.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1895/124133l.jpg",
       "value": 9.3,
       "category": [
         "Comedia", "Fantasía"
@@ -1202,7 +1202,7 @@ const db =[
     {
       "id": 109,
       "name": "Jigokuraku",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3767.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1647/120129l.jpg",
       "value": 9.3,
       "category": [
         "Acción", "Fantasía", "Histórico", "Shounen"
@@ -1213,7 +1213,7 @@ const db =[
     {
       "id": 110,
       "name": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3846.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1384/136408l.jpg",
       "value": 9.5,
       "category": [
         "Acción", "Comedia", "Sobrenatural", "Terror"
@@ -1224,7 +1224,7 @@ const db =[
     {
       "id": 111,
       "name": "AI no Idenshi",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3842.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1706/136176l.jpg",
       "value": 9.2,
       "category": [
         "Ciencia Ficción", "Drama", "Psicológico", "Suspenso"
@@ -1235,7 +1235,7 @@ const db =[
     {
       "id": 112,
       "name": "Suki na Ko ga Megane wo Wasureta",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3831.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1582/136325l.jpg",
       "value": 9.2,
       "category": [
         "Comedia", "Escolares","Romance"
@@ -1246,7 +1246,7 @@ const db =[
     {
       "id": 113,
       "name": "Shy",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3870.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1114/136742l.jpg",
       "value": 8.7,
       "category": [
         "Acción", "Drama", "Shounen", "Superpoderes"
@@ -1257,7 +1257,7 @@ const db =[
     {
       "id": 114,
       "name": "Undead Unluck",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3891.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1136/138410l.jpg",
       "value": 9.0,
       "category": [
         "Acción", "Comedia", "Shounen", "Sobrenatural", "Superpoderes"
@@ -1268,7 +1268,7 @@ const db =[
     {
       "id": 115,
       "name": "Ishura",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3916.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1364/140875l.jpg",
       "value": 8.2,
       "category": [
         "Acción", "Aventuras", "Fantasía"
@@ -1279,7 +1279,7 @@ const db =[
     {
       "id": 116,
       "name": "Kaijuu 8-gou",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3991.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1370/140362l.jpg",
       "value": 9.5,
       "category": [
         "Acción", "Ciencia Ficción", "Militar", "Shounen"
@@ -1290,7 +1290,7 @@ const db =[
     {
       "id": 117,
       "name": "Sentai Daishikkaku",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3973.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1256/131649l.jpg",
       "value": 9.0,
       "category": [
         "Acción", "Ciencia Ficción", "Shounen"
@@ -1301,7 +1301,7 @@ const db =[
      {
       "id": 118,
       "name": "Shoushimin Series",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4022.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1164/143459l.jpg",
       "value": 9.8,
       "category": [
         "Escolares", "Misterio"
@@ -1312,7 +1312,7 @@ const db =[
      {
       "id": 119,
       "name": "Shikanoko Nokonoko Koshitantan",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/4026.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1094/143324l.jpg",
       "value": 9.2,
       "category": [
         "Escolares", "Shounen" ,"Comedia"
@@ -1323,7 +1323,7 @@ const db =[
       {
       "id": 120,
       "name": "Dungeon Meshi",
-      "image": "https://www3.animeflv.net/uploads/animes/covers/3919.jpg",
+      "image": "https://cdn.myanimelist.net/images/anime/1765/151132l.jpg",
       "value": 9.4,
       "category": [
         "Comedia", "Shounen" ,"Comedia","Fantasía","Seinen"
